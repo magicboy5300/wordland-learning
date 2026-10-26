@@ -1,0 +1,34 @@
+# Dependencies and generated output
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Learning records and local databases
+.runtime/
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+
+# Secrets and local deployment state
+.env
+.env.*
+!.env.example
+*.local
+.sites-src/
+.openai/
+.wrangler/
+.codex/
+.agents/
+.aws/
+*.pem
+*.key
+
+# Editor, operating system and script caches
+.DS_Store
+__pycache__/
+*.py[cod]
+*.log
+.vscode/
+.idea/

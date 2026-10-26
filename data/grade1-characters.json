@@ -1,0 +1,5031 @@
+{
+  "notice": "仅收录字表事实数据，不含现代课文全文。认读不等于会写；字形书写采用人工检查。",
+  "terms": [
+    {
+      "code": "upper",
+      "semester": "上册",
+      "edition": "统编语文修订版（依据2022年课程标准）",
+      "recognized": [
+        {
+          "character": "天",
+          "reading": "tiān",
+          "bookPage": 105
+        },
+        {
+          "character": "地",
+          "reading": "dì",
+          "bookPage": 105,
+          "otherReadings": [
+            "de"
+          ]
+        },
+        {
+          "character": "人",
+          "reading": "rén",
+          "bookPage": 105
+        },
+        {
+          "character": "你",
+          "reading": "nǐ",
+          "bookPage": 105
+        },
+        {
+          "character": "我",
+          "reading": "wǒ",
+          "bookPage": 105
+        },
+        {
+          "character": "他",
+          "reading": "tā",
+          "bookPage": 105
+        },
+        {
+          "character": "一",
+          "reading": "yī",
+          "bookPage": 105
+        },
+        {
+          "character": "二",
+          "reading": "èr",
+          "bookPage": 105
+        },
+        {
+          "character": "三",
+          "reading": "sān",
+          "bookPage": 105
+        },
+        {
+          "character": "四",
+          "reading": "sì",
+          "bookPage": 105
+        },
+        {
+          "character": "五",
+          "reading": "wǔ",
+          "bookPage": 105
+        },
+        {
+          "character": "上",
+          "reading": "shàng",
+          "bookPage": 105
+        },
+        {
+          "character": "下",
+          "reading": "xià",
+          "bookPage": 105
+        },
+        {
+          "character": "口",
+          "reading": "kǒu",
+          "bookPage": 105
+        },
+        {
+          "character": "耳",
+          "reading": "ěr",
+          "bookPage": 105
+        },
+        {
+          "character": "目",
+          "reading": "mù",
+          "bookPage": 105
+        },
+        {
+          "character": "手",
+          "reading": "shǒu",
+          "bookPage": 105
+        },
+        {
+          "character": "足",
+          "reading": "zú",
+          "bookPage": 105
+        },
+        {
+          "character": "站",
+          "reading": "zhàn",
+          "bookPage": 105
+        },
+        {
+          "character": "坐",
+          "reading": "zuò",
+          "bookPage": 105
+        },
+        {
+          "character": "日",
+          "reading": "rì",
+          "bookPage": 105
+        },
+        {
+          "character": "月",
+          "reading": "yuè",
+          "bookPage": 105
+        },
+        {
+          "character": "山",
+          "reading": "shān",
+          "bookPage": 105
+        },
+        {
+          "character": "川",
+          "reading": "chuān",
+          "bookPage": 105
+        },
+        {
+          "character": "水",
+          "reading": "shuǐ",
+          "bookPage": 105
+        },
+        {
+          "character": "火",
+          "reading": "huǒ",
+          "bookPage": 105
+        },
+        {
+          "character": "田",
+          "reading": "tián",
+          "bookPage": 105
+        },
+        {
+          "character": "禾",
+          "reading": "hé",
+          "bookPage": 105
+        },
+        {
+          "character": "六",
+          "reading": "liù",
+          "bookPage": 105
+        },
+        {
+          "character": "七",
+          "reading": "qī",
+          "bookPage": 105
+        },
+        {
+          "character": "八",
+          "reading": "bā",
+          "bookPage": 105
+        },
+        {
+          "character": "九",
+          "reading": "jiǔ",
+          "bookPage": 105
+        },
+        {
+          "character": "十",
+          "reading": "shí",
+          "bookPage": 105
+        },
+        {
+          "character": "爸",
+          "reading": "bà",
+          "bookPage": 105
+        },
+        {
+          "character": "妈",
+          "reading": "mā",
+          "bookPage": 105
+        },
+        {
+          "character": "大",
+          "reading": "dà",
+          "bookPage": 105
+        },
+        {
+          "character": "马",
+          "reading": "mǎ",
+          "bookPage": 105
+        },
+        {
+          "character": "路",
+          "reading": "lù",
+          "bookPage": 105
+        },
+        {
+          "character": "土",
+          "reading": "tǔ",
+          "bookPage": 105
+        },
+        {
+          "character": "本",
+          "reading": "běn",
+          "bookPage": 105
+        },
+        {
+          "character": "学",
+          "reading": "xué",
+          "bookPage": 105
+        },
+        {
+          "character": "校",
+          "reading": "xiào",
+          "bookPage": 105
+        },
+        {
+          "character": "班",
+          "reading": "bān",
+          "bookPage": 105
+        },
+        {
+          "character": "级",
+          "reading": "jí",
+          "bookPage": 105
+        },
+        {
+          "character": "姓",
+          "reading": "xìng",
+          "bookPage": 105
+        },
+        {
+          "character": "名",
+          "reading": "míng",
+          "bookPage": 105
+        },
+        {
+          "character": "王",
+          "reading": "wáng",
+          "bookPage": 105
+        },
+        {
+          "character": "哥",
+          "reading": "gē",
+          "bookPage": 105
+        },
+        {
+          "character": "弟",
+          "reading": "dì",
+          "bookPage": 105
+        },
+        {
+          "character": "画",
+          "reading": "huà",
+          "bookPage": 105
+        },
+        {
+          "character": "花",
+          "reading": "huā",
+          "bookPage": 105
+        },
+        {
+          "character": "打",
+          "reading": "dǎ",
+          "bookPage": 105
+        },
+        {
+          "character": "棋",
+          "reading": "qí",
+          "bookPage": 105
+        },
+        {
+          "character": "积",
+          "reading": "jī",
+          "bookPage": 105
+        },
+        {
+          "character": "木",
+          "reading": "mù",
+          "bookPage": 105
+        },
+        {
+          "character": "字",
+          "reading": "zì",
+          "bookPage": 105
+        },
+        {
+          "character": "词",
+          "reading": "cí",
+          "bookPage": 105
+        },
+        {
+          "character": "句",
+          "reading": "jù",
+          "bookPage": 105
+        },
+        {
+          "character": "子",
+          "reading": "zǐ",
+          "bookPage": 105
+        },
+        {
+          "character": "桌",
+          "reading": "zhuō",
+          "bookPage": 105
+        },
+        {
+          "character": "纸",
+          "reading": "zhǐ",
+          "bookPage": 105
+        },
+        {
+          "character": "读",
+          "reading": "dú",
+          "bookPage": 105
+        },
+        {
+          "character": "书",
+          "reading": "shū",
+          "bookPage": 105
+        },
+        {
+          "character": "鱼",
+          "reading": "yú",
+          "bookPage": 105
+        },
+        {
+          "character": "鸭",
+          "reading": "yā",
+          "bookPage": 105
+        },
+        {
+          "character": "乌",
+          "reading": "wū",
+          "bookPage": 105
+        },
+        {
+          "character": "鸦",
+          "reading": "yā",
+          "bookPage": 105
+        },
+        {
+          "character": "午",
+          "reading": "wǔ",
+          "bookPage": 105
+        },
+        {
+          "character": "星",
+          "reading": "xīng",
+          "bookPage": 105
+        },
+        {
+          "character": "期",
+          "reading": "qī",
+          "bookPage": 105
+        },
+        {
+          "character": "语",
+          "reading": "yǔ",
+          "bookPage": 105
+        },
+        {
+          "character": "文",
+          "reading": "wén",
+          "bookPage": 105
+        },
+        {
+          "character": "数",
+          "reading": "shù",
+          "bookPage": 105,
+          "otherReadings": [
+            "shǔ"
+          ]
+        },
+        {
+          "character": "写",
+          "reading": "xiě",
+          "bookPage": 105
+        },
+        {
+          "character": "会",
+          "reading": "huì",
+          "bookPage": 105
+        },
+        {
+          "character": "晚",
+          "reading": "wǎn",
+          "bookPage": 106
+        },
+        {
+          "character": "昨",
+          "reading": "zuó",
+          "bookPage": 106
+        },
+        {
+          "character": "今",
+          "reading": "jīn",
+          "bookPage": 106
+        },
+        {
+          "character": "明",
+          "reading": "míng",
+          "bookPage": 106
+        },
+        {
+          "character": "个",
+          "reading": "gè",
+          "bookPage": 106
+        },
+        {
+          "character": "这",
+          "reading": "zhè",
+          "bookPage": 106
+        },
+        {
+          "character": "去",
+          "reading": "qù",
+          "bookPage": 106
+        },
+        {
+          "character": "年",
+          "reading": "nián",
+          "bookPage": 106
+        },
+        {
+          "character": "秋",
+          "reading": "qiū",
+          "bookPage": 106
+        },
+        {
+          "character": "气",
+          "reading": "qì",
+          "bookPage": 106
+        },
+        {
+          "character": "了",
+          "reading": "le",
+          "bookPage": 106
+        },
+        {
+          "character": "树",
+          "reading": "shù",
+          "bookPage": 106
+        },
+        {
+          "character": "叶",
+          "reading": "yè",
+          "bookPage": 106
+        },
+        {
+          "character": "黄",
+          "reading": "huáng",
+          "bookPage": 106
+        },
+        {
+          "character": "片",
+          "reading": "piàn",
+          "bookPage": 106
+        },
+        {
+          "character": "从",
+          "reading": "cóng",
+          "bookPage": 106
+        },
+        {
+          "character": "来",
+          "reading": "lái",
+          "bookPage": 106
+        },
+        {
+          "character": "飞",
+          "reading": "fēi",
+          "bookPage": 106
+        },
+        {
+          "character": "江",
+          "reading": "jiāng",
+          "bookPage": 106
+        },
+        {
+          "character": "南",
+          "reading": "nán",
+          "bookPage": 106
+        },
+        {
+          "character": "可",
+          "reading": "kě",
+          "bookPage": 106
+        },
+        {
+          "character": "采",
+          "reading": "cǎi",
+          "bookPage": 106
+        },
+        {
+          "character": "莲",
+          "reading": "lián",
+          "bookPage": 106
+        },
+        {
+          "character": "戏",
+          "reading": "xì",
+          "bookPage": 106
+        },
+        {
+          "character": "间",
+          "reading": "jiān",
+          "bookPage": 106
+        },
+        {
+          "character": "东",
+          "reading": "dōng",
+          "bookPage": 106
+        },
+        {
+          "character": "北",
+          "reading": "běi",
+          "bookPage": 106
+        },
+        {
+          "character": "的",
+          "reading": "de",
+          "bookPage": 106
+        },
+        {
+          "character": "家",
+          "reading": "jiā",
+          "bookPage": 106
+        },
+        {
+          "character": "鸡",
+          "reading": "jī",
+          "bookPage": 106
+        },
+        {
+          "character": "竹",
+          "reading": "zhú",
+          "bookPage": 106
+        },
+        {
+          "character": "牙",
+          "reading": "yá",
+          "bookPage": 106
+        },
+        {
+          "character": "用",
+          "reading": "yòng",
+          "bookPage": 106
+        },
+        {
+          "character": "几",
+          "reading": "jǐ",
+          "bookPage": 106
+        },
+        {
+          "character": "步",
+          "reading": "bù",
+          "bookPage": 106
+        },
+        {
+          "character": "没",
+          "reading": "méi",
+          "bookPage": 106
+        },
+        {
+          "character": "参",
+          "reading": "cān",
+          "bookPage": 106
+        },
+        {
+          "character": "加",
+          "reading": "jiā",
+          "bookPage": 106
+        },
+        {
+          "character": "鸟",
+          "reading": "niǎo",
+          "bookPage": 106
+        },
+        {
+          "character": "说",
+          "reading": "shuō",
+          "bookPage": 106
+        },
+        {
+          "character": "是",
+          "reading": "shì",
+          "bookPage": 106
+        },
+        {
+          "character": "春",
+          "reading": "chūn",
+          "bookPage": 106
+        },
+        {
+          "character": "青",
+          "reading": "qīng",
+          "bookPage": 106
+        },
+        {
+          "character": "蛙",
+          "reading": "wā",
+          "bookPage": 106
+        },
+        {
+          "character": "夏",
+          "reading": "xià",
+          "bookPage": 106
+        },
+        {
+          "character": "着",
+          "reading": "zhe",
+          "bookPage": 106,
+          "otherReadings": [
+            "zháo"
+          ]
+        },
+        {
+          "character": "皮",
+          "reading": "pí",
+          "bookPage": 106
+        },
+        {
+          "character": "就",
+          "reading": "jiù",
+          "bookPage": 106
+        },
+        {
+          "character": "冬",
+          "reading": "dōng",
+          "bookPage": 106
+        },
+        {
+          "character": "男",
+          "reading": "nán",
+          "bookPage": 106
+        },
+        {
+          "character": "女",
+          "reading": "nǚ",
+          "bookPage": 106
+        },
+        {
+          "character": "关",
+          "reading": "guān",
+          "bookPage": 106
+        },
+        {
+          "character": "正",
+          "reading": "zhèng",
+          "bookPage": 106
+        },
+        {
+          "character": "反",
+          "reading": "fǎn",
+          "bookPage": 106
+        },
+        {
+          "character": "先",
+          "reading": "xiān",
+          "bookPage": 106
+        },
+        {
+          "character": "后",
+          "reading": "hòu",
+          "bookPage": 106
+        },
+        {
+          "character": "内",
+          "reading": "nèi",
+          "bookPage": 106
+        },
+        {
+          "character": "外",
+          "reading": "wài",
+          "bookPage": 106
+        },
+        {
+          "character": "对",
+          "reading": "duì",
+          "bookPage": 106
+        },
+        {
+          "character": "歌",
+          "reading": "gē",
+          "bookPage": 106
+        },
+        {
+          "character": "雨",
+          "reading": "yǔ",
+          "bookPage": 106
+        },
+        {
+          "character": "风",
+          "reading": "fēng",
+          "bookPage": 106
+        },
+        {
+          "character": "虫",
+          "reading": "chóng",
+          "bookPage": 106
+        },
+        {
+          "character": "清",
+          "reading": "qīng",
+          "bookPage": 106
+        },
+        {
+          "character": "绿",
+          "reading": "lǜ",
+          "bookPage": 106
+        },
+        {
+          "character": "桃",
+          "reading": "táo",
+          "bookPage": 106
+        },
+        {
+          "character": "红",
+          "reading": "hóng",
+          "bookPage": 106
+        },
+        {
+          "character": "力",
+          "reading": "lì",
+          "bookPage": 106
+        },
+        {
+          "character": "尖",
+          "reading": "jiān",
+          "bookPage": 106
+        },
+        {
+          "character": "尘",
+          "reading": "chén",
+          "bookPage": 106
+        },
+        {
+          "character": "众",
+          "reading": "zhòng",
+          "bookPage": 106
+        },
+        {
+          "character": "双",
+          "reading": "shuāng",
+          "bookPage": 106
+        },
+        {
+          "character": "林",
+          "reading": "lín",
+          "bookPage": 106
+        },
+        {
+          "character": "森",
+          "reading": "sēn",
+          "bookPage": 106
+        },
+        {
+          "character": "不",
+          "reading": "bù",
+          "bookPage": 106
+        },
+        {
+          "character": "条",
+          "reading": "tiáo",
+          "bookPage": 106
+        },
+        {
+          "character": "心",
+          "reading": "xīn",
+          "bookPage": 106
+        },
+        {
+          "character": "金",
+          "reading": "jīn",
+          "bookPage": 106
+        },
+        {
+          "character": "包",
+          "reading": "bāo",
+          "bookPage": 106
+        },
+        {
+          "character": "尺",
+          "reading": "chǐ",
+          "bookPage": 106
+        },
+        {
+          "character": "作",
+          "reading": "zuò",
+          "bookPage": 106
+        },
+        {
+          "character": "业",
+          "reading": "yè",
+          "bookPage": 106
+        },
+        {
+          "character": "笔",
+          "reading": "bǐ",
+          "bookPage": 106
+        },
+        {
+          "character": "刀",
+          "reading": "dāo",
+          "bookPage": 106
+        },
+        {
+          "character": "宝",
+          "reading": "bǎo",
+          "bookPage": 106
+        },
+        {
+          "character": "贝",
+          "reading": "bèi",
+          "bookPage": 106
+        },
+        {
+          "character": "少",
+          "reading": "shǎo",
+          "bookPage": 106
+        },
+        {
+          "character": "课",
+          "reading": "kè",
+          "bookPage": 106
+        },
+        {
+          "character": "早",
+          "reading": "zǎo",
+          "bookPage": 106
+        },
+        {
+          "character": "升",
+          "reading": "shēng",
+          "bookPage": 106
+        },
+        {
+          "character": "国",
+          "reading": "guó",
+          "bookPage": 106
+        },
+        {
+          "character": "旗",
+          "reading": "qí",
+          "bookPage": 106
+        },
+        {
+          "character": "中",
+          "reading": "zhōng",
+          "bookPage": 106
+        },
+        {
+          "character": "们",
+          "reading": "men",
+          "bookPage": 106
+        },
+        {
+          "character": "声",
+          "reading": "shēng",
+          "bookPage": 106
+        },
+        {
+          "character": "起",
+          "reading": "qǐ",
+          "bookPage": 106
+        },
+        {
+          "character": "多",
+          "reading": "duō",
+          "bookPage": 106
+        },
+        {
+          "character": "么",
+          "reading": "me",
+          "bookPage": 106
+        },
+        {
+          "character": "向",
+          "reading": "xiàng",
+          "bookPage": 106
+        },
+        {
+          "character": "立",
+          "reading": "lì",
+          "bookPage": 106
+        },
+        {
+          "character": "老",
+          "reading": "lǎo",
+          "bookPage": 106
+        },
+        {
+          "character": "师",
+          "reading": "shī",
+          "bookPage": 106
+        },
+        {
+          "character": "工",
+          "reading": "gōng",
+          "bookPage": 106
+        },
+        {
+          "character": "厂",
+          "reading": "chǎng",
+          "bookPage": 106
+        },
+        {
+          "character": "医",
+          "reading": "yī",
+          "bookPage": 106
+        },
+        {
+          "character": "院",
+          "reading": "yuàn",
+          "bookPage": 106
+        },
+        {
+          "character": "生",
+          "reading": "shēng",
+          "bookPage": 106
+        },
+        {
+          "character": "门",
+          "reading": "mén",
+          "bookPage": 106
+        },
+        {
+          "character": "卫",
+          "reading": "wèi",
+          "bookPage": 106
+        },
+        {
+          "character": "白",
+          "reading": "bái",
+          "bookPage": 106
+        },
+        {
+          "character": "菜",
+          "reading": "cài",
+          "bookPage": 106
+        },
+        {
+          "character": "西",
+          "reading": "xī",
+          "bookPage": 106
+        },
+        {
+          "character": "瓜",
+          "reading": "guā",
+          "bookPage": 106
+        },
+        {
+          "character": "果",
+          "reading": "guǒ",
+          "bookPage": 106
+        },
+        {
+          "character": "小",
+          "reading": "xiǎo",
+          "bookPage": 106
+        },
+        {
+          "character": "桥",
+          "reading": "qiáo",
+          "bookPage": 106
+        },
+        {
+          "character": "流",
+          "reading": "liú",
+          "bookPage": 106
+        },
+        {
+          "character": "柳",
+          "reading": "liǔ",
+          "bookPage": 106
+        },
+        {
+          "character": "开",
+          "reading": "kāi",
+          "bookPage": 106
+        },
+        {
+          "character": "雪",
+          "reading": "xuě",
+          "bookPage": 106
+        },
+        {
+          "character": "夜",
+          "reading": "yè",
+          "bookPage": 106
+        },
+        {
+          "character": "色",
+          "reading": "sè",
+          "bookPage": 106
+        },
+        {
+          "character": "美",
+          "reading": "měi",
+          "bookPage": 106
+        },
+        {
+          "character": "蓝",
+          "reading": "lán",
+          "bookPage": 106
+        },
+        {
+          "character": "云",
+          "reading": "yún",
+          "bookPage": 106
+        },
+        {
+          "character": "草",
+          "reading": "cǎo",
+          "bookPage": 106
+        },
+        {
+          "character": "原",
+          "reading": "yuán",
+          "bookPage": 106
+        },
+        {
+          "character": "冰",
+          "reading": "bīng",
+          "bookPage": 106
+        },
+        {
+          "character": "自",
+          "reading": "zì",
+          "bookPage": 106
+        },
+        {
+          "character": "行",
+          "reading": "xíng",
+          "bookPage": 106
+        },
+        {
+          "character": "车",
+          "reading": "chē",
+          "bookPage": 106
+        },
+        {
+          "character": "船",
+          "reading": "chuán",
+          "bookPage": 107
+        },
+        {
+          "character": "弯",
+          "reading": "wān",
+          "bookPage": 107
+        },
+        {
+          "character": "儿",
+          "reading": "ér",
+          "bookPage": 107
+        },
+        {
+          "character": "两",
+          "reading": "liǎng",
+          "bookPage": 107
+        },
+        {
+          "character": "头",
+          "reading": "tóu",
+          "bookPage": 107
+        },
+        {
+          "character": "在",
+          "reading": "zài",
+          "bookPage": 107
+        },
+        {
+          "character": "里",
+          "reading": "lǐ",
+          "bookPage": 107
+        },
+        {
+          "character": "看",
+          "reading": "kàn",
+          "bookPage": 107
+        },
+        {
+          "character": "见",
+          "reading": "jiàn",
+          "bookPage": 107
+        },
+        {
+          "character": "闪",
+          "reading": "shǎn",
+          "bookPage": 107
+        },
+        {
+          "character": "影",
+          "reading": "yǐng",
+          "bookPage": 107
+        },
+        {
+          "character": "前",
+          "reading": "qián",
+          "bookPage": 107
+        },
+        {
+          "character": "常",
+          "reading": "cháng",
+          "bookPage": 107
+        },
+        {
+          "character": "黑",
+          "reading": "hēi",
+          "bookPage": 107
+        },
+        {
+          "character": "狗",
+          "reading": "gǒu",
+          "bookPage": 107
+        },
+        {
+          "character": "左",
+          "reading": "zuǒ",
+          "bookPage": 107
+        },
+        {
+          "character": "右",
+          "reading": "yòu",
+          "bookPage": 107
+        },
+        {
+          "character": "它",
+          "reading": "tā",
+          "bookPage": 107
+        },
+        {
+          "character": "好",
+          "reading": "hǎo",
+          "bookPage": 107
+        },
+        {
+          "character": "朋",
+          "reading": "péng",
+          "bookPage": 107
+        },
+        {
+          "character": "友",
+          "reading": "yǒu",
+          "bookPage": 107
+        },
+        {
+          "character": "件",
+          "reading": "jiàn",
+          "bookPage": 107
+        },
+        {
+          "character": "有",
+          "reading": "yǒu",
+          "bookPage": 107
+        },
+        {
+          "character": "和",
+          "reading": "hé",
+          "bookPage": 107
+        },
+        {
+          "character": "做",
+          "reading": "zuò",
+          "bookPage": 107
+        },
+        {
+          "character": "也",
+          "reading": "yě",
+          "bookPage": 107
+        },
+        {
+          "character": "办",
+          "reading": "bàn",
+          "bookPage": 107
+        },
+        {
+          "character": "到",
+          "reading": "dào",
+          "bookPage": 107
+        },
+        {
+          "character": "又",
+          "reading": "yòu",
+          "bookPage": 107
+        },
+        {
+          "character": "才",
+          "reading": "cái",
+          "bookPage": 107
+        },
+        {
+          "character": "能",
+          "reading": "néng",
+          "bookPage": 107
+        },
+        {
+          "character": "爷",
+          "reading": "yé",
+          "bookPage": 107
+        },
+        {
+          "character": "奶",
+          "reading": "nǎi",
+          "bookPage": 107
+        },
+        {
+          "character": "叔",
+          "reading": "shū",
+          "bookPage": 107
+        },
+        {
+          "character": "姐",
+          "reading": "jiě",
+          "bookPage": 107
+        },
+        {
+          "character": "妹",
+          "reading": "mèi",
+          "bookPage": 107
+        },
+        {
+          "character": "比",
+          "reading": "bǐ",
+          "bookPage": 107
+        },
+        {
+          "character": "尾",
+          "reading": "wěi",
+          "bookPage": 107
+        },
+        {
+          "character": "巴",
+          "reading": "bā",
+          "bookPage": 107
+        },
+        {
+          "character": "谁",
+          "reading": "shuí",
+          "bookPage": 107
+        },
+        {
+          "character": "长",
+          "reading": "cháng",
+          "bookPage": 107,
+          "otherReadings": [
+            "zhǎng"
+          ]
+        },
+        {
+          "character": "短",
+          "reading": "duǎn",
+          "bookPage": 107
+        },
+        {
+          "character": "把",
+          "reading": "bǎ",
+          "bookPage": 107
+        },
+        {
+          "character": "伞",
+          "reading": "sǎn",
+          "bookPage": 107
+        },
+        {
+          "character": "兔",
+          "reading": "tù",
+          "bookPage": 107
+        },
+        {
+          "character": "最",
+          "reading": "zuì",
+          "bookPage": 107
+        },
+        {
+          "character": "公",
+          "reading": "gōng",
+          "bookPage": 107
+        },
+        {
+          "character": "喝",
+          "reading": "hē",
+          "bookPage": 107
+        },
+        {
+          "character": "只",
+          "reading": "zhī",
+          "bookPage": 107
+        },
+        {
+          "character": "处",
+          "reading": "chù",
+          "bookPage": 107
+        },
+        {
+          "character": "找",
+          "reading": "zhǎo",
+          "bookPage": 107
+        },
+        {
+          "character": "许",
+          "reading": "xǔ",
+          "bookPage": 107
+        },
+        {
+          "character": "石",
+          "reading": "shí",
+          "bookPage": 107
+        },
+        {
+          "character": "出",
+          "reading": "chū",
+          "bookPage": 107
+        },
+        {
+          "character": "法",
+          "reading": "fǎ",
+          "bookPage": 107
+        },
+        {
+          "character": "放",
+          "reading": "fàng",
+          "bookPage": 107
+        },
+        {
+          "character": "进",
+          "reading": "jìn",
+          "bookPage": 107
+        },
+        {
+          "character": "高",
+          "reading": "gāo",
+          "bookPage": 107
+        },
+        {
+          "character": "点",
+          "reading": "diǎn",
+          "bookPage": 107
+        },
+        {
+          "character": "彩",
+          "reading": "cǎi",
+          "bookPage": 107
+        },
+        {
+          "character": "半",
+          "reading": "bàn",
+          "bookPage": 107
+        },
+        {
+          "character": "空",
+          "reading": "kōng",
+          "bookPage": 107
+        },
+        {
+          "character": "问",
+          "reading": "wèn",
+          "bookPage": 107
+        },
+        {
+          "character": "回",
+          "reading": "huí",
+          "bookPage": 107
+        },
+        {
+          "character": "答",
+          "reading": "dá",
+          "bookPage": 107
+        },
+        {
+          "character": "方",
+          "reading": "fāng",
+          "bookPage": 107
+        },
+        {
+          "character": "久",
+          "reading": "jiǔ",
+          "bookPage": 107
+        },
+        {
+          "character": "更",
+          "reading": "gèng",
+          "bookPage": 107
+        },
+        {
+          "character": "牛",
+          "reading": "niú",
+          "bookPage": 107
+        },
+        {
+          "character": "羊",
+          "reading": "yáng",
+          "bookPage": 107
+        },
+        {
+          "character": "爪",
+          "reading": "zhuǎ",
+          "bookPage": 107
+        },
+        {
+          "character": "旦",
+          "reading": "dàn",
+          "bookPage": 107
+        },
+        {
+          "character": "拼",
+          "reading": "pīn",
+          "bookPage": 107
+        },
+        {
+          "character": "音",
+          "reading": "yīn",
+          "bookPage": 107
+        }
+      ],
+      "writing": [
+        {
+          "character": "一",
+          "reading": "yī",
+          "bookPage": 108
+        },
+        {
+          "character": "二",
+          "reading": "èr",
+          "bookPage": 108
+        },
+        {
+          "character": "三",
+          "reading": "sān",
+          "bookPage": 108
+        },
+        {
+          "character": "上",
+          "reading": "shàng",
+          "bookPage": 108
+        },
+        {
+          "character": "口",
+          "reading": "kǒu",
+          "bookPage": 108
+        },
+        {
+          "character": "耳",
+          "reading": "ěr",
+          "bookPage": 108
+        },
+        {
+          "character": "目",
+          "reading": "mù",
+          "bookPage": 108
+        },
+        {
+          "character": "手",
+          "reading": "shǒu",
+          "bookPage": 108
+        },
+        {
+          "character": "日",
+          "reading": "rì",
+          "bookPage": 108
+        },
+        {
+          "character": "火",
+          "reading": "huǒ",
+          "bookPage": 108
+        },
+        {
+          "character": "田",
+          "reading": "tián",
+          "bookPage": 108
+        },
+        {
+          "character": "禾",
+          "reading": "hé",
+          "bookPage": 108
+        },
+        {
+          "character": "六",
+          "reading": "liù",
+          "bookPage": 108
+        },
+        {
+          "character": "七",
+          "reading": "qī",
+          "bookPage": 108
+        },
+        {
+          "character": "八",
+          "reading": "bā",
+          "bookPage": 108
+        },
+        {
+          "character": "十",
+          "reading": "shí",
+          "bookPage": 108
+        },
+        {
+          "character": "九",
+          "reading": "jiǔ",
+          "bookPage": 108
+        },
+        {
+          "character": "王",
+          "reading": "wáng",
+          "bookPage": 108
+        },
+        {
+          "character": "午",
+          "reading": "wǔ",
+          "bookPage": 108
+        },
+        {
+          "character": "下",
+          "reading": "xià",
+          "bookPage": 108
+        },
+        {
+          "character": "去",
+          "reading": "qù",
+          "bookPage": 108
+        },
+        {
+          "character": "年",
+          "reading": "nián",
+          "bookPage": 108
+        },
+        {
+          "character": "了",
+          "reading": "le",
+          "bookPage": 108
+        },
+        {
+          "character": "子",
+          "reading": "zǐ",
+          "bookPage": 108
+        },
+        {
+          "character": "大",
+          "reading": "dà",
+          "bookPage": 108
+        },
+        {
+          "character": "人",
+          "reading": "rén",
+          "bookPage": 108
+        },
+        {
+          "character": "可",
+          "reading": "kě",
+          "bookPage": 108
+        },
+        {
+          "character": "叶",
+          "reading": "yè",
+          "bookPage": 108
+        },
+        {
+          "character": "东",
+          "reading": "dōng",
+          "bookPage": 108
+        },
+        {
+          "character": "西",
+          "reading": "xī",
+          "bookPage": 108
+        },
+        {
+          "character": "竹",
+          "reading": "zhú",
+          "bookPage": 108
+        },
+        {
+          "character": "马",
+          "reading": "mǎ",
+          "bookPage": 108
+        },
+        {
+          "character": "牙",
+          "reading": "yá",
+          "bookPage": 108
+        },
+        {
+          "character": "用",
+          "reading": "yòng",
+          "bookPage": 108
+        },
+        {
+          "character": "几",
+          "reading": "jǐ",
+          "bookPage": 108
+        },
+        {
+          "character": "四",
+          "reading": "sì",
+          "bookPage": 108
+        },
+        {
+          "character": "小",
+          "reading": "xiǎo",
+          "bookPage": 108
+        },
+        {
+          "character": "鸟",
+          "reading": "niǎo",
+          "bookPage": 108
+        },
+        {
+          "character": "是",
+          "reading": "shì",
+          "bookPage": 108
+        },
+        {
+          "character": "天",
+          "reading": "tiān",
+          "bookPage": 108
+        },
+        {
+          "character": "女",
+          "reading": "nǚ",
+          "bookPage": 108
+        },
+        {
+          "character": "开",
+          "reading": "kāi",
+          "bookPage": 108
+        },
+        {
+          "character": "关",
+          "reading": "guān",
+          "bookPage": 108
+        },
+        {
+          "character": "先",
+          "reading": "xiān",
+          "bookPage": 108
+        },
+        {
+          "character": "云",
+          "reading": "yún",
+          "bookPage": 108
+        },
+        {
+          "character": "雨",
+          "reading": "yǔ",
+          "bookPage": 108
+        },
+        {
+          "character": "虫",
+          "reading": "chóng",
+          "bookPage": 108
+        },
+        {
+          "character": "山",
+          "reading": "shān",
+          "bookPage": 108
+        },
+        {
+          "character": "水",
+          "reading": "shuǐ",
+          "bookPage": 108
+        },
+        {
+          "character": "力",
+          "reading": "lì",
+          "bookPage": 108
+        },
+        {
+          "character": "男",
+          "reading": "nán",
+          "bookPage": 108
+        },
+        {
+          "character": "土",
+          "reading": "tǔ",
+          "bookPage": 108
+        },
+        {
+          "character": "木",
+          "reading": "mù",
+          "bookPage": 108
+        },
+        {
+          "character": "心",
+          "reading": "xīn",
+          "bookPage": 108
+        },
+        {
+          "character": "尺",
+          "reading": "chǐ",
+          "bookPage": 108
+        },
+        {
+          "character": "本",
+          "reading": "běn",
+          "bookPage": 108
+        },
+        {
+          "character": "刀",
+          "reading": "dāo",
+          "bookPage": 108
+        },
+        {
+          "character": "不",
+          "reading": "bù",
+          "bookPage": 108
+        },
+        {
+          "character": "少",
+          "reading": "shǎo",
+          "bookPage": 108
+        },
+        {
+          "character": "中",
+          "reading": "zhōng",
+          "bookPage": 108
+        },
+        {
+          "character": "五",
+          "reading": "wǔ",
+          "bookPage": 108
+        },
+        {
+          "character": "风",
+          "reading": "fēng",
+          "bookPage": 108
+        },
+        {
+          "character": "立",
+          "reading": "lì",
+          "bookPage": 108
+        },
+        {
+          "character": "正",
+          "reading": "zhèng",
+          "bookPage": 108
+        },
+        {
+          "character": "工",
+          "reading": "gōng",
+          "bookPage": 108
+        },
+        {
+          "character": "厂",
+          "reading": "chǎng",
+          "bookPage": 108
+        },
+        {
+          "character": "门",
+          "reading": "mén",
+          "bookPage": 108
+        },
+        {
+          "character": "卫",
+          "reading": "wèi",
+          "bookPage": 108
+        },
+        {
+          "character": "月",
+          "reading": "yuè",
+          "bookPage": 108
+        },
+        {
+          "character": "儿",
+          "reading": "ér",
+          "bookPage": 108
+        },
+        {
+          "character": "头",
+          "reading": "tóu",
+          "bookPage": 108
+        },
+        {
+          "character": "里",
+          "reading": "lǐ",
+          "bookPage": 108
+        },
+        {
+          "character": "见",
+          "reading": "jiàn",
+          "bookPage": 108
+        },
+        {
+          "character": "在",
+          "reading": "zài",
+          "bookPage": 108
+        },
+        {
+          "character": "我",
+          "reading": "wǒ",
+          "bookPage": 108
+        },
+        {
+          "character": "左",
+          "reading": "zuǒ",
+          "bookPage": 108
+        },
+        {
+          "character": "右",
+          "reading": "yòu",
+          "bookPage": 108
+        },
+        {
+          "character": "和",
+          "reading": "hé",
+          "bookPage": 108
+        },
+        {
+          "character": "也",
+          "reading": "yě",
+          "bookPage": 108
+        },
+        {
+          "character": "又",
+          "reading": "yòu",
+          "bookPage": 108
+        },
+        {
+          "character": "才",
+          "reading": "cái",
+          "bookPage": 108
+        },
+        {
+          "character": "爸",
+          "reading": "bà",
+          "bookPage": 108
+        },
+        {
+          "character": "妈",
+          "reading": "mā",
+          "bookPage": 108
+        },
+        {
+          "character": "比",
+          "reading": "bǐ",
+          "bookPage": 108
+        },
+        {
+          "character": "巴",
+          "reading": "bā",
+          "bookPage": 108
+        },
+        {
+          "character": "长",
+          "reading": "cháng",
+          "bookPage": 108
+        },
+        {
+          "character": "公",
+          "reading": "gōng",
+          "bookPage": 108
+        },
+        {
+          "character": "只",
+          "reading": "zhī",
+          "bookPage": 108
+        },
+        {
+          "character": "个",
+          "reading": "gè",
+          "bookPage": 108
+        },
+        {
+          "character": "多",
+          "reading": "duō",
+          "bookPage": 108
+        },
+        {
+          "character": "石",
+          "reading": "shí",
+          "bookPage": 108
+        },
+        {
+          "character": "出",
+          "reading": "chū",
+          "bookPage": 108
+        },
+        {
+          "character": "来",
+          "reading": "lái",
+          "bookPage": 108
+        },
+        {
+          "character": "半",
+          "reading": "bàn",
+          "bookPage": 108
+        },
+        {
+          "character": "你",
+          "reading": "nǐ",
+          "bookPage": 108
+        },
+        {
+          "character": "有",
+          "reading": "yǒu",
+          "bookPage": 108
+        },
+        {
+          "character": "牛",
+          "reading": "niú",
+          "bookPage": 108
+        },
+        {
+          "character": "羊",
+          "reading": "yáng",
+          "bookPage": 108
+        },
+        {
+          "character": "果",
+          "reading": "guǒ",
+          "bookPage": 108
+        },
+        {
+          "character": "白",
+          "reading": "bái",
+          "bookPage": 108
+        }
+      ],
+      "sourceSha256": "cc43f42bd4271a6d57811922816aa8abafec31cd2c0e97423ac272676df7fd58",
+      "appendixPdfPages": {
+        "recognition": [
+          110,
+          111,
+          112
+        ],
+        "writing": [
+          113
+        ]
+      },
+      "sourceUrl": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1c73b348-e8b6-47d6-84b0-6dbacbe28268.pkg/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%E8%AF%AD%E6%96%87%20%E4%B8%80%E5%B9%B4%E7%BA%A7%20%E4%B8%8A%E5%86%8C_1725097498841.pdf",
+      "sourceNote": "上册来源：国家智慧教育平台；下册来源：公开教材副本，已核对编修委员会、目录与附录数量。纸质教材版次不同时请以学校教材为准。"
+    },
+    {
+      "code": "lower",
+      "semester": "下册",
+      "edition": "统编语文修订版（依据2022年课程标准）",
+      "recognized": [
+        {
+          "character": "霜",
+          "reading": "shuāng",
+          "bookPage": 114
+        },
+        {
+          "character": "吹",
+          "reading": "chuī",
+          "bookPage": 114
+        },
+        {
+          "character": "落",
+          "reading": "luò",
+          "bookPage": 114
+        },
+        {
+          "character": "降",
+          "reading": "jiàng",
+          "bookPage": 114
+        },
+        {
+          "character": "飘",
+          "reading": "piāo",
+          "bookPage": 114
+        },
+        {
+          "character": "游",
+          "reading": "yóu",
+          "bookPage": 114
+        },
+        {
+          "character": "池",
+          "reading": "chí",
+          "bookPage": 114
+        },
+        {
+          "character": "入",
+          "reading": "rù",
+          "bookPage": 114
+        },
+        {
+          "character": "氏",
+          "reading": "shì",
+          "bookPage": 114
+        },
+        {
+          "character": "什",
+          "reading": "shén",
+          "bookPage": 114
+        },
+        {
+          "character": "李",
+          "reading": "lǐ",
+          "bookPage": 114
+        },
+        {
+          "character": "张",
+          "reading": "zhāng",
+          "bookPage": 114
+        },
+        {
+          "character": "弓",
+          "reading": "gōng",
+          "bookPage": 114
+        },
+        {
+          "character": "古",
+          "reading": "gǔ",
+          "bookPage": 114
+        },
+        {
+          "character": "胡",
+          "reading": "hú",
+          "bookPage": 114
+        },
+        {
+          "character": "吴",
+          "reading": "wú",
+          "bookPage": 114
+        },
+        {
+          "character": "言",
+          "reading": "yán",
+          "bookPage": 114
+        },
+        {
+          "character": "孙",
+          "reading": "sūn",
+          "bookPage": 114
+        },
+        {
+          "character": "河",
+          "reading": "hé",
+          "bookPage": 114
+        },
+        {
+          "character": "晴",
+          "reading": "qíng",
+          "bookPage": 114
+        },
+        {
+          "character": "眼",
+          "reading": "yǎn",
+          "bookPage": 114
+        },
+        {
+          "character": "睛",
+          "reading": "jīng",
+          "bookPage": 114
+        },
+        {
+          "character": "保",
+          "reading": "bǎo",
+          "bookPage": 114
+        },
+        {
+          "character": "护",
+          "reading": "hù",
+          "bookPage": 114
+        },
+        {
+          "character": "苗",
+          "reading": "miáo",
+          "bookPage": 114
+        },
+        {
+          "character": "吃",
+          "reading": "chī",
+          "bookPage": 114
+        },
+        {
+          "character": "事",
+          "reading": "shì",
+          "bookPage": 114
+        },
+        {
+          "character": "情",
+          "reading": "qíng",
+          "bookPage": 114
+        },
+        {
+          "character": "请",
+          "reading": "qǐng",
+          "bookPage": 114
+        },
+        {
+          "character": "让",
+          "reading": "ràng",
+          "bookPage": 114
+        },
+        {
+          "character": "猜",
+          "reading": "cāi",
+          "bookPage": 114
+        },
+        {
+          "character": "边",
+          "reading": "biān",
+          "bookPage": 114
+        },
+        {
+          "character": "凉",
+          "reading": "liáng",
+          "bookPage": 114
+        },
+        {
+          "character": "喜",
+          "reading": "xǐ",
+          "bookPage": 114
+        },
+        {
+          "character": "欢",
+          "reading": "huān",
+          "bookPage": 114
+        },
+        {
+          "character": "时",
+          "reading": "shí",
+          "bookPage": 114
+        },
+        {
+          "character": "怕",
+          "reading": "pà",
+          "bookPage": 114
+        },
+        {
+          "character": "攻",
+          "reading": "gōng",
+          "bookPage": 114
+        },
+        {
+          "character": "令",
+          "reading": "lìng",
+          "bookPage": 114
+        },
+        {
+          "character": "感",
+          "reading": "gǎn",
+          "bookPage": 114
+        },
+        {
+          "character": "动",
+          "reading": "dòng",
+          "bookPage": 114
+        },
+        {
+          "character": "万",
+          "reading": "wàn",
+          "bookPage": 114
+        },
+        {
+          "character": "无",
+          "reading": "wú",
+          "bookPage": 114
+        },
+        {
+          "character": "识",
+          "reading": "shí",
+          "bookPage": 114
+        },
+        {
+          "character": "组",
+          "reading": "zǔ",
+          "bookPage": 114
+        },
+        {
+          "character": "计",
+          "reading": "jì",
+          "bookPage": 114
+        },
+        {
+          "character": "算",
+          "reading": "suàn",
+          "bookPage": 114
+        },
+        {
+          "character": "减",
+          "reading": "jiǎn",
+          "bookPage": 114
+        },
+        {
+          "character": "式",
+          "reading": "shì",
+          "bookPage": 114
+        },
+        {
+          "character": "图",
+          "reading": "tú",
+          "bookPage": 114
+        },
+        {
+          "character": "形",
+          "reading": "xíng",
+          "bookPage": 114
+        },
+        {
+          "character": "卡",
+          "reading": "kǎ",
+          "bookPage": 114
+        },
+        {
+          "character": "合",
+          "reading": "hé",
+          "bookPage": 114
+        },
+        {
+          "character": "唱",
+          "reading": "chàng",
+          "bookPage": 114
+        },
+        {
+          "character": "团",
+          "reading": "tuán",
+          "bookPage": 114
+        },
+        {
+          "character": "热",
+          "reading": "rè",
+          "bookPage": 114
+        },
+        {
+          "character": "爱",
+          "reading": "ài",
+          "bookPage": 114
+        },
+        {
+          "character": "共",
+          "reading": "gòng",
+          "bookPage": 114
+        },
+        {
+          "character": "产",
+          "reading": "chǎn",
+          "bookPage": 114
+        },
+        {
+          "character": "党",
+          "reading": "dǎng",
+          "bookPage": 114
+        },
+        {
+          "character": "太",
+          "reading": "tài",
+          "bookPage": 114
+        },
+        {
+          "character": "阳",
+          "reading": "yáng",
+          "bookPage": 114
+        },
+        {
+          "character": "光",
+          "reading": "guāng",
+          "bookPage": 114
+        },
+        {
+          "character": "怀",
+          "reading": "huái",
+          "bookPage": 114
+        },
+        {
+          "character": "抱",
+          "reading": "bào",
+          "bookPage": 114
+        },
+        {
+          "character": "幸",
+          "reading": "xìng",
+          "bookPage": 114
+        },
+        {
+          "character": "福",
+          "reading": "fú",
+          "bookPage": 114
+        },
+        {
+          "character": "成",
+          "reading": "chéng",
+          "bookPage": 114
+        },
+        {
+          "character": "井",
+          "reading": "jǐng",
+          "bookPage": 114
+        },
+        {
+          "character": "城",
+          "reading": "chéng",
+          "bookPage": 114
+        },
+        {
+          "character": "村",
+          "reading": "cūn",
+          "bookPage": 114
+        },
+        {
+          "character": "毛",
+          "reading": "máo",
+          "bookPage": 114
+        },
+        {
+          "character": "主",
+          "reading": "zhǔ",
+          "bookPage": 114
+        },
+        {
+          "character": "席",
+          "reading": "xí",
+          "bookPage": 114
+        },
+        {
+          "character": "住",
+          "reading": "zhù",
+          "bookPage": 114
+        },
+        {
+          "character": "乡",
+          "reading": "xiāng",
+          "bookPage": 114
+        },
+        {
+          "character": "亲",
+          "reading": "qīn",
+          "bookPage": 114
+        },
+        {
+          "character": "战",
+          "reading": "zhàn",
+          "bookPage": 114
+        },
+        {
+          "character": "士",
+          "reading": "shì",
+          "bookPage": 114
+        },
+        {
+          "character": "想",
+          "reading": "xiǎng",
+          "bookPage": 114
+        },
+        {
+          "character": "念",
+          "reading": "niàn",
+          "bookPage": 114
+        },
+        {
+          "character": "告",
+          "reading": "gào",
+          "bookPage": 114
+        },
+        {
+          "character": "诉",
+          "reading": "sù",
+          "bookPage": 114
+        },
+        {
+          "character": "走",
+          "reading": "zǒu",
+          "bookPage": 114
+        },
+        {
+          "character": "京",
+          "reading": "jīng",
+          "bookPage": 114
+        },
+        {
+          "character": "座",
+          "reading": "zuò",
+          "bookPage": 114
+        },
+        {
+          "character": "安",
+          "reading": "ān",
+          "bookPage": 114
+        },
+        {
+          "character": "广",
+          "reading": "guǎng",
+          "bookPage": 114
+        },
+        {
+          "character": "场",
+          "reading": "chǎng",
+          "bookPage": 114
+        },
+        {
+          "character": "非",
+          "reading": "fēi",
+          "bookPage": 114
+        },
+        {
+          "character": "宽",
+          "reading": "kuān",
+          "bookPage": 114
+        },
+        {
+          "character": "丽",
+          "reading": "lì",
+          "bookPage": 114
+        },
+        {
+          "character": "洁",
+          "reading": "jié",
+          "bookPage": 114
+        },
+        {
+          "character": "认",
+          "reading": "rèn",
+          "bookPage": 114
+        },
+        {
+          "character": "连",
+          "reading": "lián",
+          "bookPage": 114
+        },
+        {
+          "character": "选",
+          "reading": "xuǎn",
+          "bookPage": 114
+        },
+        {
+          "character": "圈",
+          "reading": "quān",
+          "bookPage": 114
+        },
+        {
+          "character": "涂",
+          "reading": "tú",
+          "bookPage": 114
+        },
+        {
+          "character": "填",
+          "reading": "tián",
+          "bookPage": 114
+        },
+        {
+          "character": "试",
+          "reading": "shì",
+          "bookPage": 114
+        },
+        {
+          "character": "练",
+          "reading": "liàn",
+          "bookPage": 114
+        },
+        {
+          "character": "玩",
+          "reading": "wán",
+          "bookPage": 114
+        },
+        {
+          "character": "得",
+          "reading": "de",
+          "bookPage": 114,
+          "otherReadings": [
+            "děi"
+          ]
+        },
+        {
+          "character": "急",
+          "reading": "jí",
+          "bookPage": 114
+        },
+        {
+          "character": "直",
+          "reading": "zhí",
+          "bookPage": 114
+        },
+        {
+          "character": "哭",
+          "reading": "kū",
+          "bookPage": 114
+        },
+        {
+          "character": "跟",
+          "reading": "gēn",
+          "bookPage": 114
+        },
+        {
+          "character": "忽",
+          "reading": "hū",
+          "bookPage": 114
+        },
+        {
+          "character": "然",
+          "reading": "rán",
+          "bookPage": 114
+        },
+        {
+          "character": "听",
+          "reading": "tīng",
+          "bookPage": 114
+        },
+        {
+          "character": "喊",
+          "reading": "hǎn",
+          "bookPage": 114
+        },
+        {
+          "character": "快",
+          "reading": "kuài",
+          "bookPage": 114
+        },
+        {
+          "character": "己",
+          "reading": "jǐ",
+          "bookPage": 114
+        },
+        {
+          "character": "背",
+          "reading": "bèi",
+          "bookPage": 114,
+          "otherReadings": [
+            "bēi"
+          ]
+        },
+        {
+          "character": "很",
+          "reading": "hěn",
+          "bookPage": 115
+        },
+        {
+          "character": "孤",
+          "reading": "gū",
+          "bookPage": 115
+        },
+        {
+          "character": "单",
+          "reading": "dān",
+          "bookPage": 115
+        },
+        {
+          "character": "种",
+          "reading": "zhòng",
+          "bookPage": 115
+        },
+        {
+          "character": "每",
+          "reading": "měi",
+          "bookPage": 115
+        },
+        {
+          "character": "都",
+          "reading": "dōu",
+          "bookPage": 115
+        },
+        {
+          "character": "邻",
+          "reading": "lín",
+          "bookPage": 115
+        },
+        {
+          "character": "居",
+          "reading": "jū",
+          "bookPage": 115
+        },
+        {
+          "character": "叫",
+          "reading": "jiào",
+          "bookPage": 115
+        },
+        {
+          "character": "招",
+          "reading": "zhāo",
+          "bookPage": 115
+        },
+        {
+          "character": "呼",
+          "reading": "hū",
+          "bookPage": 115
+        },
+        {
+          "character": "乐",
+          "reading": "lè",
+          "bookPage": 115,
+          "otherReadings": [
+            "yuè"
+          ]
+        },
+        {
+          "character": "怎",
+          "reading": "zěn",
+          "bookPage": 115
+        },
+        {
+          "character": "独",
+          "reading": "dú",
+          "bookPage": 115
+        },
+        {
+          "character": "跳",
+          "reading": "tiào",
+          "bookPage": 115
+        },
+        {
+          "character": "绳",
+          "reading": "shéng",
+          "bookPage": 115
+        },
+        {
+          "character": "当",
+          "reading": "dāng",
+          "bookPage": 115
+        },
+        {
+          "character": "还",
+          "reading": "hái",
+          "bookPage": 115
+        },
+        {
+          "character": "羽",
+          "reading": "yǔ",
+          "bookPage": 115
+        },
+        {
+          "character": "球",
+          "reading": "qiú",
+          "bookPage": 115
+        },
+        {
+          "character": "劲",
+          "reading": "jìn",
+          "bookPage": 115
+        },
+        {
+          "character": "轮",
+          "reading": "lún",
+          "bookPage": 115
+        },
+        {
+          "character": "排",
+          "reading": "pái",
+          "bookPage": 115
+        },
+        {
+          "character": "母",
+          "reading": "mǔ",
+          "bookPage": 115
+        },
+        {
+          "character": "页",
+          "reading": "yè",
+          "bookPage": 115
+        },
+        {
+          "character": "止",
+          "reading": "zhǐ",
+          "bookPage": 115
+        },
+        {
+          "character": "斤",
+          "reading": "jīn",
+          "bookPage": 115
+        },
+        {
+          "character": "寸",
+          "reading": "cùn",
+          "bookPage": 115
+        },
+        {
+          "character": "丁",
+          "reading": "dīng",
+          "bookPage": 115
+        },
+        {
+          "character": "千",
+          "reading": "qiān",
+          "bookPage": 115
+        },
+        {
+          "character": "全",
+          "reading": "quán",
+          "bookPage": 115
+        },
+        {
+          "character": "元",
+          "reading": "yuán",
+          "bookPage": 115
+        },
+        {
+          "character": "静",
+          "reading": "jìng",
+          "bookPage": 115
+        },
+        {
+          "character": "思",
+          "reading": "sī",
+          "bookPage": 115
+        },
+        {
+          "character": "床",
+          "reading": "chuáng",
+          "bookPage": 115
+        },
+        {
+          "character": "疑",
+          "reading": "yí",
+          "bookPage": 115
+        },
+        {
+          "character": "举",
+          "reading": "jǔ",
+          "bookPage": 115
+        },
+        {
+          "character": "望",
+          "reading": "wàng",
+          "bookPage": 115
+        },
+        {
+          "character": "低",
+          "reading": "dī",
+          "bookPage": 115
+        },
+        {
+          "character": "故",
+          "reading": "gù",
+          "bookPage": 115
+        },
+        {
+          "character": "胆",
+          "reading": "dǎn",
+          "bookPage": 115
+        },
+        {
+          "character": "敢",
+          "reading": "gǎn",
+          "bookPage": 115
+        },
+        {
+          "character": "勇",
+          "reading": "yǒng",
+          "bookPage": 115
+        },
+        {
+          "character": "讲",
+          "reading": "jiǎng",
+          "bookPage": 115
+        },
+        {
+          "character": "窗",
+          "reading": "chuāng",
+          "bookPage": 115
+        },
+        {
+          "character": "乱",
+          "reading": "luàn",
+          "bookPage": 115
+        },
+        {
+          "character": "拉",
+          "reading": "lā",
+          "bookPage": 115
+        },
+        {
+          "character": "样",
+          "reading": "yàng",
+          "bookPage": 115
+        },
+        {
+          "character": "笑",
+          "reading": "xiào",
+          "bookPage": 115
+        },
+        {
+          "character": "再",
+          "reading": "zài",
+          "bookPage": 115
+        },
+        {
+          "character": "睡",
+          "reading": "shuì",
+          "bookPage": 115
+        },
+        {
+          "character": "觉",
+          "reading": "jiào",
+          "bookPage": 115
+        },
+        {
+          "character": "端",
+          "reading": "duān",
+          "bookPage": 115
+        },
+        {
+          "character": "粽",
+          "reading": "zòng",
+          "bookPage": 115
+        },
+        {
+          "character": "节",
+          "reading": "jié",
+          "bookPage": 115
+        },
+        {
+          "character": "总",
+          "reading": "zǒng",
+          "bookPage": 115
+        },
+        {
+          "character": "煮",
+          "reading": "zhǔ",
+          "bookPage": 115
+        },
+        {
+          "character": "盼",
+          "reading": "pàn",
+          "bookPage": 115
+        },
+        {
+          "character": "米",
+          "reading": "mǐ",
+          "bookPage": 115
+        },
+        {
+          "character": "枣",
+          "reading": "zǎo",
+          "bookPage": 115
+        },
+        {
+          "character": "甜",
+          "reading": "tián",
+          "bookPage": 115
+        },
+        {
+          "character": "分",
+          "reading": "fēn",
+          "bookPage": 115
+        },
+        {
+          "character": "鲜",
+          "reading": "xiān",
+          "bookPage": 115
+        },
+        {
+          "character": "肉",
+          "reading": "ròu",
+          "bookPage": 115
+        },
+        {
+          "character": "册",
+          "reading": "cè",
+          "bookPage": 115
+        },
+        {
+          "character": "支",
+          "reading": "zhī",
+          "bookPage": 115
+        },
+        {
+          "character": "台",
+          "reading": "tái",
+          "bookPage": 115
+        },
+        {
+          "character": "电",
+          "reading": "diàn",
+          "bookPage": 115
+        },
+        {
+          "character": "视",
+          "reading": "shì",
+          "bookPage": 115
+        },
+        {
+          "character": "部",
+          "reading": "bù",
+          "bookPage": 115
+        },
+        {
+          "character": "机",
+          "reading": "jī",
+          "bookPage": 115
+        },
+        {
+          "character": "衣",
+          "reading": "yī",
+          "bookPage": 115
+        },
+        {
+          "character": "裤",
+          "reading": "kù",
+          "bookPage": 115
+        },
+        {
+          "character": "被",
+          "reading": "bèi",
+          "bookPage": 115
+        },
+        {
+          "character": "物",
+          "reading": "wù",
+          "bookPage": 115
+        },
+        {
+          "character": "捉",
+          "reading": "zhuō",
+          "bookPage": 115
+        },
+        {
+          "character": "迷",
+          "reading": "mí",
+          "bookPage": 115
+        },
+        {
+          "character": "藏",
+          "reading": "cáng",
+          "bookPage": 115
+        },
+        {
+          "character": "造",
+          "reading": "zào",
+          "bookPage": 115
+        },
+        {
+          "character": "蚂",
+          "reading": "mǎ",
+          "bookPage": 115
+        },
+        {
+          "character": "蚁",
+          "reading": "yǐ",
+          "bookPage": 115
+        },
+        {
+          "character": "运",
+          "reading": "yùn",
+          "bookPage": 115
+        },
+        {
+          "character": "食",
+          "reading": "shí",
+          "bookPage": 115
+        },
+        {
+          "character": "粮",
+          "reading": "liáng",
+          "bookPage": 115
+        },
+        {
+          "character": "房",
+          "reading": "fáng",
+          "bookPage": 115
+        },
+        {
+          "character": "结",
+          "reading": "jié",
+          "bookPage": 115,
+          "otherReadings": [
+            "jiē"
+          ]
+        },
+        {
+          "character": "网",
+          "reading": "wǎng",
+          "bookPage": 115
+        },
+        {
+          "character": "圆",
+          "reading": "yuán",
+          "bookPage": 115
+        },
+        {
+          "character": "严",
+          "reading": "yán",
+          "bookPage": 115
+        },
+        {
+          "character": "寒",
+          "reading": "hán",
+          "bookPage": 115
+        },
+        {
+          "character": "酷",
+          "reading": "kù",
+          "bookPage": 115
+        },
+        {
+          "character": "暑",
+          "reading": "shǔ",
+          "bookPage": 115
+        },
+        {
+          "character": "暖",
+          "reading": "nuǎn",
+          "bookPage": 115
+        },
+        {
+          "character": "晨",
+          "reading": "chén",
+          "bookPage": 115
+        },
+        {
+          "character": "细",
+          "reading": "xì",
+          "bookPage": 115
+        },
+        {
+          "character": "朝",
+          "reading": "zhāo",
+          "bookPage": 115
+        },
+        {
+          "character": "霞",
+          "reading": "xiá",
+          "bookPage": 115
+        },
+        {
+          "character": "夕",
+          "reading": "xī",
+          "bookPage": 115
+        },
+        {
+          "character": "杨",
+          "reading": "yáng",
+          "bookPage": 115
+        },
+        {
+          "character": "香",
+          "reading": "xiāng",
+          "bookPage": 115
+        },
+        {
+          "character": "操",
+          "reading": "cāo",
+          "bookPage": 115
+        },
+        {
+          "character": "拔",
+          "reading": "bá",
+          "bookPage": 115
+        },
+        {
+          "character": "拍",
+          "reading": "pāi",
+          "bookPage": 115
+        },
+        {
+          "character": "跑",
+          "reading": "pǎo",
+          "bookPage": 115
+        },
+        {
+          "character": "踢",
+          "reading": "tī",
+          "bookPage": 115
+        },
+        {
+          "character": "铃",
+          "reading": "líng",
+          "bookPage": 115
+        },
+        {
+          "character": "真",
+          "reading": "zhēn",
+          "bookPage": 115
+        },
+        {
+          "character": "闹",
+          "reading": "nào",
+          "bookPage": 115
+        },
+        {
+          "character": "丢",
+          "reading": "diū",
+          "bookPage": 115
+        },
+        {
+          "character": "沙",
+          "reading": "shā",
+          "bookPage": 115
+        },
+        {
+          "character": "身",
+          "reading": "shēn",
+          "bookPage": 115
+        },
+        {
+          "character": "体",
+          "reading": "tǐ",
+          "bookPage": 115
+        },
+        {
+          "character": "之",
+          "reading": "zhī",
+          "bookPage": 115
+        },
+        {
+          "character": "初",
+          "reading": "chū",
+          "bookPage": 115
+        },
+        {
+          "character": "相",
+          "reading": "xiāng",
+          "bookPage": 115
+        },
+        {
+          "character": "近",
+          "reading": "jìn",
+          "bookPage": 115
+        },
+        {
+          "character": "习",
+          "reading": "xí",
+          "bookPage": 115
+        },
+        {
+          "character": "远",
+          "reading": "yuǎn",
+          "bookPage": 115
+        },
+        {
+          "character": "教",
+          "reading": "jiào",
+          "bookPage": 115
+        },
+        {
+          "character": "道",
+          "reading": "dào",
+          "bookPage": 115
+        },
+        {
+          "character": "专",
+          "reading": "zhuān",
+          "bookPage": 115
+        },
+        {
+          "character": "幼",
+          "reading": "yòu",
+          "bookPage": 115
+        },
+        {
+          "character": "玉",
+          "reading": "yù",
+          "bookPage": 115
+        },
+        {
+          "character": "知",
+          "reading": "zhī",
+          "bookPage": 115
+        },
+        {
+          "character": "义",
+          "reading": "yì",
+          "bookPage": 115
+        },
+        {
+          "character": "饭",
+          "reading": "fàn",
+          "bookPage": 115
+        },
+        {
+          "character": "饱",
+          "reading": "bǎo",
+          "bookPage": 115
+        },
+        {
+          "character": "茶",
+          "reading": "chá",
+          "bookPage": 115
+        },
+        {
+          "character": "泡",
+          "reading": "pào",
+          "bookPage": 115
+        },
+        {
+          "character": "轻",
+          "reading": "qīng",
+          "bookPage": 115
+        },
+        {
+          "character": "穿",
+          "reading": "chuān",
+          "bookPage": 115
+        },
+        {
+          "character": "袍",
+          "reading": "páo",
+          "bookPage": 115
+        },
+        {
+          "character": "鞭",
+          "reading": "biān",
+          "bookPage": 115
+        },
+        {
+          "character": "炮",
+          "reading": "pào",
+          "bookPage": 115
+        },
+        {
+          "character": "诗",
+          "reading": "shī",
+          "bookPage": 115
+        },
+        {
+          "character": "首",
+          "reading": "shǒu",
+          "bookPage": 115
+        },
+        {
+          "character": "偷",
+          "reading": "tōu",
+          "bookPage": 115
+        },
+        {
+          "character": "浮",
+          "reading": "fú",
+          "bookPage": 115
+        },
+        {
+          "character": "萍",
+          "reading": "píng",
+          "bookPage": 115
+        },
+        {
+          "character": "泉",
+          "reading": "quán",
+          "bookPage": 115
+        },
+        {
+          "character": "惜",
+          "reading": "xī",
+          "bookPage": 115
+        },
+        {
+          "character": "照",
+          "reading": "zhào",
+          "bookPage": 115
+        },
+        {
+          "character": "柔",
+          "reading": "róu",
+          "bookPage": 115
+        },
+        {
+          "character": "荷",
+          "reading": "hé",
+          "bookPage": 115
+        },
+        {
+          "character": "露",
+          "reading": "lù",
+          "bookPage": 115
+        },
+        {
+          "character": "角",
+          "reading": "jiǎo",
+          "bookPage": 115
+        },
+        {
+          "character": "浪",
+          "reading": "làng",
+          "bookPage": 115
+        },
+        {
+          "character": "迈",
+          "reading": "mài",
+          "bookPage": 115
+        },
+        {
+          "character": "悄",
+          "reading": "qiāo",
+          "bookPage": 115
+        },
+        {
+          "character": "泪",
+          "reading": "lèi",
+          "bookPage": 115
+        },
+        {
+          "character": "次",
+          "reading": "cì",
+          "bookPage": 115
+        },
+        {
+          "character": "给",
+          "reading": "gěi",
+          "bookPage": 115
+        },
+        {
+          "character": "壳",
+          "reading": "ké",
+          "bookPage": 115
+        },
+        {
+          "character": "虾",
+          "reading": "xiā",
+          "bookPage": 115
+        },
+        {
+          "character": "装",
+          "reading": "zhuāng",
+          "bookPage": 115
+        },
+        {
+          "character": "像",
+          "reading": "xiàng",
+          "bookPage": 115
+        },
+        {
+          "character": "淘",
+          "reading": "táo",
+          "bookPage": 115
+        },
+        {
+          "character": "娃",
+          "reading": "wá",
+          "bookPage": 115
+        },
+        {
+          "character": "珠",
+          "reading": "zhū",
+          "bookPage": 116
+        },
+        {
+          "character": "摇",
+          "reading": "yáo",
+          "bookPage": 116
+        },
+        {
+          "character": "篮",
+          "reading": "lán",
+          "bookPage": 116
+        },
+        {
+          "character": "亮",
+          "reading": "liàng",
+          "bookPage": 116
+        },
+        {
+          "character": "晶",
+          "reading": "jīng",
+          "bookPage": 116
+        },
+        {
+          "character": "停",
+          "reading": "tíng",
+          "bookPage": 116
+        },
+        {
+          "character": "坪",
+          "reading": "píng",
+          "bookPage": 116
+        },
+        {
+          "character": "展",
+          "reading": "zhǎn",
+          "bookPage": 116
+        },
+        {
+          "character": "透",
+          "reading": "tòu",
+          "bookPage": 116
+        },
+        {
+          "character": "翅",
+          "reading": "chì",
+          "bookPage": 116
+        },
+        {
+          "character": "膀",
+          "reading": "bǎng",
+          "bookPage": 116
+        },
+        {
+          "character": "朵",
+          "reading": "duǒ",
+          "bookPage": 116
+        },
+        {
+          "character": "要",
+          "reading": "yào",
+          "bookPage": 116
+        },
+        {
+          "character": "腰",
+          "reading": "yāo",
+          "bookPage": 116
+        },
+        {
+          "character": "阴",
+          "reading": "yīn",
+          "bookPage": 116
+        },
+        {
+          "character": "沉",
+          "reading": "chén",
+          "bookPage": 116
+        },
+        {
+          "character": "呀",
+          "reading": "ya",
+          "bookPage": 116,
+          "otherReadings": [
+            "yā"
+          ]
+        },
+        {
+          "character": "忙",
+          "reading": "máng",
+          "bookPage": 116
+        },
+        {
+          "character": "呢",
+          "reading": "ne",
+          "bookPage": 116
+        },
+        {
+          "character": "吗",
+          "reading": "ma",
+          "bookPage": 116
+        },
+        {
+          "character": "面",
+          "reading": "miàn",
+          "bookPage": 116
+        },
+        {
+          "character": "闷",
+          "reading": "mēn",
+          "bookPage": 116
+        },
+        {
+          "character": "吧",
+          "reading": "ba",
+          "bookPage": 116
+        },
+        {
+          "character": "消",
+          "reading": "xiāo",
+          "bookPage": 116
+        },
+        {
+          "character": "息",
+          "reading": "xī",
+          "bookPage": 116
+        },
+        {
+          "character": "棍",
+          "reading": "gùn",
+          "bookPage": 116
+        },
+        {
+          "character": "豆",
+          "reading": "dòu",
+          "bookPage": 116
+        },
+        {
+          "character": "汤",
+          "reading": "tāng",
+          "bookPage": 116
+        },
+        {
+          "character": "蚊",
+          "reading": "wén",
+          "bookPage": 116
+        },
+        {
+          "character": "扇",
+          "reading": "shàn",
+          "bookPage": 116
+        },
+        {
+          "character": "椅",
+          "reading": "yǐ",
+          "bookPage": 116
+        },
+        {
+          "character": "牵",
+          "reading": "qiān",
+          "bookPage": 116
+        },
+        {
+          "character": "织",
+          "reading": "zhī",
+          "bookPage": 116
+        },
+        {
+          "character": "斗",
+          "reading": "dǒu",
+          "bookPage": 116
+        },
+        {
+          "character": "具",
+          "reading": "jù",
+          "bookPage": 116
+        },
+        {
+          "character": "铅",
+          "reading": "qiān",
+          "bookPage": 116
+        },
+        {
+          "character": "新",
+          "reading": "xīn",
+          "bookPage": 116
+        },
+        {
+          "character": "平",
+          "reading": "píng",
+          "bookPage": 116
+        },
+        {
+          "character": "盒",
+          "reading": "hé",
+          "bookPage": 116
+        },
+        {
+          "character": "些",
+          "reading": "xiē",
+          "bookPage": 116
+        },
+        {
+          "character": "此",
+          "reading": "cǐ",
+          "bookPage": 116
+        },
+        {
+          "character": "仔",
+          "reading": "zǐ",
+          "bookPage": 116
+        },
+        {
+          "character": "检",
+          "reading": "jiǎn",
+          "bookPage": 116
+        },
+        {
+          "character": "查",
+          "reading": "chá",
+          "bookPage": 116
+        },
+        {
+          "character": "所",
+          "reading": "suǒ",
+          "bookPage": 116
+        },
+        {
+          "character": "伙",
+          "reading": "huǒ",
+          "bookPage": 116
+        },
+        {
+          "character": "伴",
+          "reading": "bàn",
+          "bookPage": 116
+        },
+        {
+          "character": "钟",
+          "reading": "zhōng",
+          "bookPage": 116
+        },
+        {
+          "character": "迟",
+          "reading": "chí",
+          "bookPage": 116
+        },
+        {
+          "character": "灯",
+          "reading": "dēng",
+          "bookPage": 116
+        },
+        {
+          "character": "等",
+          "reading": "děng",
+          "bookPage": 116
+        },
+        {
+          "character": "啊",
+          "reading": "a",
+          "bookPage": 116
+        },
+        {
+          "character": "决",
+          "reading": "jué",
+          "bookPage": 116
+        },
+        {
+          "character": "定",
+          "reading": "dìng",
+          "bookPage": 116
+        },
+        {
+          "character": "已",
+          "reading": "yǐ",
+          "bookPage": 116
+        },
+        {
+          "character": "经",
+          "reading": "jīng",
+          "bookPage": 116
+        },
+        {
+          "character": "位",
+          "reading": "wèi",
+          "bookPage": 116
+        },
+        {
+          "character": "表",
+          "reading": "biǎo",
+          "bookPage": 116
+        },
+        {
+          "character": "虎",
+          "reading": "hǔ",
+          "bookPage": 116
+        },
+        {
+          "character": "熊",
+          "reading": "xióng",
+          "bookPage": 116
+        },
+        {
+          "character": "通",
+          "reading": "tōng",
+          "bookPage": 116
+        },
+        {
+          "character": "注",
+          "reading": "zhù",
+          "bookPage": 116
+        },
+        {
+          "character": "意",
+          "reading": "yì",
+          "bookPage": 116
+        },
+        {
+          "character": "遍",
+          "reading": "biàn",
+          "bookPage": 116
+        },
+        {
+          "character": "百",
+          "reading": "bǎi",
+          "bookPage": 116
+        },
+        {
+          "character": "为",
+          "reading": "wèi",
+          "bookPage": 116
+        },
+        {
+          "character": "因",
+          "reading": "yīn",
+          "bookPage": 116
+        },
+        {
+          "character": "舌",
+          "reading": "shé",
+          "bookPage": 116
+        },
+        {
+          "character": "理",
+          "reading": "lǐ",
+          "bookPage": 116
+        },
+        {
+          "character": "忘",
+          "reading": "wàng",
+          "bookPage": 116
+        },
+        {
+          "character": "第",
+          "reading": "dì",
+          "bookPage": 116
+        },
+        {
+          "character": "猴",
+          "reading": "hóu",
+          "bookPage": 116
+        },
+        {
+          "character": "块",
+          "reading": "kuài",
+          "bookPage": 116
+        },
+        {
+          "character": "兴",
+          "reading": "xìng",
+          "bookPage": 116
+        },
+        {
+          "character": "掰",
+          "reading": "bāi",
+          "bookPage": 116
+        },
+        {
+          "character": "扛",
+          "reading": "káng",
+          "bookPage": 116
+        },
+        {
+          "character": "往",
+          "reading": "wǎng",
+          "bookPage": 116
+        },
+        {
+          "character": "棵",
+          "reading": "kē",
+          "bookPage": 116
+        },
+        {
+          "character": "满",
+          "reading": "mǎn",
+          "bookPage": 116
+        },
+        {
+          "character": "扔",
+          "reading": "rēng",
+          "bookPage": 116
+        },
+        {
+          "character": "摘",
+          "reading": "zhāi",
+          "bookPage": 116
+        },
+        {
+          "character": "捧",
+          "reading": "pěng",
+          "bookPage": 116
+        },
+        {
+          "character": "追",
+          "reading": "zhuī",
+          "bookPage": 116
+        },
+        {
+          "character": "刷",
+          "reading": "shuā",
+          "bookPage": 116
+        },
+        {
+          "character": "梳",
+          "reading": "shū",
+          "bookPage": 116
+        },
+        {
+          "character": "巾",
+          "reading": "jīn",
+          "bookPage": 116
+        },
+        {
+          "character": "皂",
+          "reading": "zào",
+          "bookPage": 116
+        },
+        {
+          "character": "洗",
+          "reading": "xǐ",
+          "bookPage": 116
+        },
+        {
+          "character": "澡",
+          "reading": "zǎo",
+          "bookPage": 116
+        },
+        {
+          "character": "脸",
+          "reading": "liǎn",
+          "bookPage": 116
+        },
+        {
+          "character": "盆",
+          "reading": "pén",
+          "bookPage": 116
+        },
+        {
+          "character": "棉",
+          "reading": "mián",
+          "bookPage": 116
+        },
+        {
+          "character": "姑",
+          "reading": "gū",
+          "bookPage": 116
+        },
+        {
+          "character": "娘",
+          "reading": "niáng",
+          "bookPage": 116
+        },
+        {
+          "character": "病",
+          "reading": "bìng",
+          "bookPage": 116
+        },
+        {
+          "character": "她",
+          "reading": "tā",
+          "bookPage": 116
+        },
+        {
+          "character": "治",
+          "reading": "zhì",
+          "bookPage": 116
+        },
+        {
+          "character": "燕",
+          "reading": "yàn",
+          "bookPage": 116
+        },
+        {
+          "character": "帮",
+          "reading": "bāng",
+          "bookPage": 116
+        },
+        {
+          "character": "害",
+          "reading": "hài",
+          "bookPage": 116
+        },
+        {
+          "character": "别",
+          "reading": "bié",
+          "bookPage": 116
+        },
+        {
+          "character": "干",
+          "reading": "gàn",
+          "bookPage": 116
+        },
+        {
+          "character": "惊",
+          "reading": "jīng",
+          "bookPage": 116
+        },
+        {
+          "character": "奇",
+          "reading": "qí",
+          "bookPage": 116
+        },
+        {
+          "character": "咕",
+          "reading": "gū",
+          "bookPage": 116
+        },
+        {
+          "character": "咚",
+          "reading": "dōng",
+          "bookPage": 116
+        },
+        {
+          "character": "熟",
+          "reading": "shú",
+          "bookPage": 116
+        },
+        {
+          "character": "掉",
+          "reading": "diào",
+          "bookPage": 116
+        },
+        {
+          "character": "湖",
+          "reading": "hú",
+          "bookPage": 116
+        },
+        {
+          "character": "吓",
+          "reading": "xià",
+          "bookPage": 116
+        },
+        {
+          "character": "啦",
+          "reading": "la",
+          "bookPage": 116
+        },
+        {
+          "character": "鹿",
+          "reading": "lù",
+          "bookPage": 116
+        },
+        {
+          "character": "象",
+          "reading": "xiàng",
+          "bookPage": 116
+        },
+        {
+          "character": "野",
+          "reading": "yě",
+          "bookPage": 116
+        },
+        {
+          "character": "拦",
+          "reading": "lán",
+          "bookPage": 116
+        },
+        {
+          "character": "哪",
+          "reading": "nǎ",
+          "bookPage": 116,
+          "otherReadings": [
+            "na"
+          ]
+        },
+        {
+          "character": "那",
+          "reading": "nà",
+          "bookPage": 116
+        },
+        {
+          "character": "领",
+          "reading": "lǐng",
+          "bookPage": 116
+        },
+        {
+          "character": "壁",
+          "reading": "bì",
+          "bookPage": 116
+        },
+        {
+          "character": "借",
+          "reading": "jiè",
+          "bookPage": 116
+        },
+        {
+          "character": "咬",
+          "reading": "yǎo",
+          "bookPage": 116
+        },
+        {
+          "character": "难",
+          "reading": "nán",
+          "bookPage": 116
+        },
+        {
+          "character": "爬",
+          "reading": "pá",
+          "bookPage": 116
+        },
+        {
+          "character": "您",
+          "reading": "nín",
+          "bookPage": 116
+        },
+        {
+          "character": "拨",
+          "reading": "bō",
+          "bookPage": 116
+        },
+        {
+          "character": "赶",
+          "reading": "gǎn",
+          "bookPage": 116
+        },
+        {
+          "character": "摆",
+          "reading": "bǎi",
+          "bookPage": 116
+        },
+        {
+          "character": "过",
+          "reading": "guò",
+          "bookPage": 116
+        },
+        {
+          "character": "孩",
+          "reading": "hái",
+          "bookPage": 116
+        },
+        {
+          "character": "转",
+          "reading": "zhuǎn",
+          "bookPage": 116
+        },
+        {
+          "character": "吵",
+          "reading": "chǎo",
+          "bookPage": 116
+        },
+        {
+          "character": "现",
+          "reading": "xiàn",
+          "bookPage": 116
+        },
+        {
+          "character": "顶",
+          "reading": "dǐng",
+          "bookPage": 116
+        },
+        {
+          "character": "胖",
+          "reading": "pàng",
+          "bookPage": 116
+        },
+        {
+          "character": "票",
+          "reading": "piào",
+          "bookPage": 116
+        },
+        {
+          "character": "户",
+          "reading": "hù",
+          "bookPage": 116
+        },
+        {
+          "character": "交",
+          "reading": "jiāo",
+          "bookPage": 116
+        },
+        {
+          "character": "父",
+          "reading": "fù",
+          "bookPage": 116
+        }
+      ],
+      "writing": [
+        {
+          "character": "春",
+          "reading": "chūn",
+          "bookPage": 117
+        },
+        {
+          "character": "冬",
+          "reading": "dōng",
+          "bookPage": 117
+        },
+        {
+          "character": "吹",
+          "reading": "chuī",
+          "bookPage": 117
+        },
+        {
+          "character": "花",
+          "reading": "huā",
+          "bookPage": 117
+        },
+        {
+          "character": "飞",
+          "reading": "fēi",
+          "bookPage": 117
+        },
+        {
+          "character": "入",
+          "reading": "rù",
+          "bookPage": 117
+        },
+        {
+          "character": "什",
+          "reading": "shén",
+          "bookPage": 117
+        },
+        {
+          "character": "么",
+          "reading": "me",
+          "bookPage": 117
+        },
+        {
+          "character": "古",
+          "reading": "gǔ",
+          "bookPage": 117
+        },
+        {
+          "character": "胡",
+          "reading": "hú",
+          "bookPage": 117
+        },
+        {
+          "character": "双",
+          "reading": "shuāng",
+          "bookPage": 117
+        },
+        {
+          "character": "言",
+          "reading": "yán",
+          "bookPage": 117
+        },
+        {
+          "character": "青",
+          "reading": "qīng",
+          "bookPage": 117
+        },
+        {
+          "character": "清",
+          "reading": "qīng",
+          "bookPage": 117
+        },
+        {
+          "character": "晴",
+          "reading": "qíng",
+          "bookPage": 117
+        },
+        {
+          "character": "苗",
+          "reading": "miáo",
+          "bookPage": 117
+        },
+        {
+          "character": "请",
+          "reading": "qǐng",
+          "bookPage": 117
+        },
+        {
+          "character": "生",
+          "reading": "shēng",
+          "bookPage": 117
+        },
+        {
+          "character": "字",
+          "reading": "zì",
+          "bookPage": 117
+        },
+        {
+          "character": "红",
+          "reading": "hóng",
+          "bookPage": 117
+        },
+        {
+          "character": "动",
+          "reading": "dòng",
+          "bookPage": 117
+        },
+        {
+          "character": "万",
+          "reading": "wàn",
+          "bookPage": 117
+        },
+        {
+          "character": "无",
+          "reading": "wú",
+          "bookPage": 117
+        },
+        {
+          "character": "明",
+          "reading": "míng",
+          "bookPage": 117
+        },
+        {
+          "character": "文",
+          "reading": "wén",
+          "bookPage": 117
+        },
+        {
+          "character": "卡",
+          "reading": "kǎ",
+          "bookPage": 117
+        },
+        {
+          "character": "片",
+          "reading": "piàn",
+          "bookPage": 117
+        },
+        {
+          "character": "合",
+          "reading": "hé",
+          "bookPage": 117
+        },
+        {
+          "character": "共",
+          "reading": "gòng",
+          "bookPage": 117
+        },
+        {
+          "character": "产",
+          "reading": "chǎn",
+          "bookPage": 117
+        },
+        {
+          "character": "党",
+          "reading": "dǎng",
+          "bookPage": 117
+        },
+        {
+          "character": "太",
+          "reading": "tài",
+          "bookPage": 117
+        },
+        {
+          "character": "阳",
+          "reading": "yáng",
+          "bookPage": 117
+        },
+        {
+          "character": "光",
+          "reading": "guāng",
+          "bookPage": 117
+        },
+        {
+          "character": "井",
+          "reading": "jǐng",
+          "bookPage": 117
+        },
+        {
+          "character": "主",
+          "reading": "zhǔ",
+          "bookPage": 117
+        },
+        {
+          "character": "江",
+          "reading": "jiāng",
+          "bookPage": 117
+        },
+        {
+          "character": "住",
+          "reading": "zhù",
+          "bookPage": 117
+        },
+        {
+          "character": "方",
+          "reading": "fāng",
+          "bookPage": 117
+        },
+        {
+          "character": "后",
+          "reading": "hòu",
+          "bookPage": 117
+        },
+        {
+          "character": "告",
+          "reading": "gào",
+          "bookPage": 117
+        },
+        {
+          "character": "的",
+          "reading": "de",
+          "bookPage": 117
+        },
+        {
+          "character": "会",
+          "reading": "huì",
+          "bookPage": 117
+        },
+        {
+          "character": "北",
+          "reading": "běi",
+          "bookPage": 117
+        },
+        {
+          "character": "京",
+          "reading": "jīng",
+          "bookPage": 117
+        },
+        {
+          "character": "广",
+          "reading": "guǎng",
+          "bookPage": 117
+        },
+        {
+          "character": "写",
+          "reading": "xiě",
+          "bookPage": 117
+        },
+        {
+          "character": "认",
+          "reading": "rèn",
+          "bookPage": 117
+        },
+        {
+          "character": "走",
+          "reading": "zǒu",
+          "bookPage": 117
+        },
+        {
+          "character": "河",
+          "reading": "hé",
+          "bookPage": 117
+        },
+        {
+          "character": "说",
+          "reading": "shuō",
+          "bookPage": 117
+        },
+        {
+          "character": "让",
+          "reading": "ràng",
+          "bookPage": 117
+        },
+        {
+          "character": "自",
+          "reading": "zì",
+          "bookPage": 117
+        },
+        {
+          "character": "己",
+          "reading": "jǐ",
+          "bookPage": 117
+        },
+        {
+          "character": "从",
+          "reading": "cóng",
+          "bookPage": 117
+        },
+        {
+          "character": "好",
+          "reading": "hǎo",
+          "bookPage": 117
+        },
+        {
+          "character": "们",
+          "reading": "men",
+          "bookPage": 117
+        },
+        {
+          "character": "叫",
+          "reading": "jiào",
+          "bookPage": 117
+        },
+        {
+          "character": "他",
+          "reading": "tā",
+          "bookPage": 117
+        },
+        {
+          "character": "回",
+          "reading": "huí",
+          "bookPage": 117
+        },
+        {
+          "character": "快",
+          "reading": "kuài",
+          "bookPage": 117
+        },
+        {
+          "character": "乐",
+          "reading": "lè",
+          "bookPage": 117
+        },
+        {
+          "character": "当",
+          "reading": "dāng",
+          "bookPage": 117
+        },
+        {
+          "character": "书",
+          "reading": "shū",
+          "bookPage": 117
+        },
+        {
+          "character": "画",
+          "reading": "huà",
+          "bookPage": 117
+        },
+        {
+          "character": "毛",
+          "reading": "máo",
+          "bookPage": 117
+        },
+        {
+          "character": "止",
+          "reading": "zhǐ",
+          "bookPage": 118
+        },
+        {
+          "character": "斤",
+          "reading": "jīn",
+          "bookPage": 118
+        },
+        {
+          "character": "寸",
+          "reading": "cùn",
+          "bookPage": 118
+        },
+        {
+          "character": "丁",
+          "reading": "dīng",
+          "bookPage": 118
+        },
+        {
+          "character": "千",
+          "reading": "qiān",
+          "bookPage": 118
+        },
+        {
+          "character": "元",
+          "reading": "yuán",
+          "bookPage": 118
+        },
+        {
+          "character": "思",
+          "reading": "sī",
+          "bookPage": 118
+        },
+        {
+          "character": "床",
+          "reading": "chuáng",
+          "bookPage": 118
+        },
+        {
+          "character": "前",
+          "reading": "qián",
+          "bookPage": 118
+        },
+        {
+          "character": "地",
+          "reading": "dì",
+          "bookPage": 118
+        },
+        {
+          "character": "故",
+          "reading": "gù",
+          "bookPage": 118
+        },
+        {
+          "character": "乡",
+          "reading": "xiāng",
+          "bookPage": 118
+        },
+        {
+          "character": "色",
+          "reading": "sè",
+          "bookPage": 118
+        },
+        {
+          "character": "把",
+          "reading": "bǎ",
+          "bookPage": 118
+        },
+        {
+          "character": "讲",
+          "reading": "jiǎng",
+          "bookPage": 118
+        },
+        {
+          "character": "样",
+          "reading": "yàng",
+          "bookPage": 118
+        },
+        {
+          "character": "笑",
+          "reading": "xiào",
+          "bookPage": 118
+        },
+        {
+          "character": "再",
+          "reading": "zài",
+          "bookPage": 118
+        },
+        {
+          "character": "节",
+          "reading": "jié",
+          "bookPage": 118
+        },
+        {
+          "character": "米",
+          "reading": "mǐ",
+          "bookPage": 118
+        },
+        {
+          "character": "间",
+          "reading": "jiān",
+          "bookPage": 118
+        },
+        {
+          "character": "分",
+          "reading": "fēn",
+          "bookPage": 118
+        },
+        {
+          "character": "吃",
+          "reading": "chī",
+          "bookPage": 118
+        },
+        {
+          "character": "肉",
+          "reading": "ròu",
+          "bookPage": 118
+        },
+        {
+          "character": "册",
+          "reading": "cè",
+          "bookPage": 118
+        },
+        {
+          "character": "支",
+          "reading": "zhī",
+          "bookPage": 118
+        },
+        {
+          "character": "电",
+          "reading": "diàn",
+          "bookPage": 118
+        },
+        {
+          "character": "衣",
+          "reading": "yī",
+          "bookPage": 118
+        },
+        {
+          "character": "物",
+          "reading": "wù",
+          "bookPage": 118
+        },
+        {
+          "character": "造",
+          "reading": "zào",
+          "bookPage": 118
+        },
+        {
+          "character": "运",
+          "reading": "yùn",
+          "bookPage": 118
+        },
+        {
+          "character": "欢",
+          "reading": "huān",
+          "bookPage": 118
+        },
+        {
+          "character": "房",
+          "reading": "fáng",
+          "bookPage": 118
+        },
+        {
+          "character": "网",
+          "reading": "wǎng",
+          "bookPage": 118
+        },
+        {
+          "character": "对",
+          "reading": "duì",
+          "bookPage": 118
+        },
+        {
+          "character": "今",
+          "reading": "jīn",
+          "bookPage": 118
+        },
+        {
+          "character": "雪",
+          "reading": "xuě",
+          "bookPage": 118
+        },
+        {
+          "character": "细",
+          "reading": "xì",
+          "bookPage": 118
+        },
+        {
+          "character": "夕",
+          "reading": "xī",
+          "bookPage": 118
+        },
+        {
+          "character": "语",
+          "reading": "yǔ",
+          "bookPage": 118
+        },
+        {
+          "character": "打",
+          "reading": "dǎ",
+          "bookPage": 118
+        },
+        {
+          "character": "皮",
+          "reading": "pí",
+          "bookPage": 118
+        },
+        {
+          "character": "跑",
+          "reading": "pǎo",
+          "bookPage": 118
+        },
+        {
+          "character": "足",
+          "reading": "zú",
+          "bookPage": 118
+        },
+        {
+          "character": "沙",
+          "reading": "shā",
+          "bookPage": 118
+        },
+        {
+          "character": "包",
+          "reading": "bāo",
+          "bookPage": 118
+        },
+        {
+          "character": "近",
+          "reading": "jìn",
+          "bookPage": 118
+        },
+        {
+          "character": "习",
+          "reading": "xí",
+          "bookPage": 118
+        },
+        {
+          "character": "远",
+          "reading": "yuǎn",
+          "bookPage": 118
+        },
+        {
+          "character": "学",
+          "reading": "xué",
+          "bookPage": 118
+        },
+        {
+          "character": "玉",
+          "reading": "yù",
+          "bookPage": 118
+        },
+        {
+          "character": "义",
+          "reading": "yì",
+          "bookPage": 118
+        },
+        {
+          "character": "饱",
+          "reading": "bǎo",
+          "bookPage": 118
+        },
+        {
+          "character": "抱",
+          "reading": "bào",
+          "bookPage": 118
+        },
+        {
+          "character": "首",
+          "reading": "shǒu",
+          "bookPage": 118
+        },
+        {
+          "character": "池",
+          "reading": "chí",
+          "bookPage": 118
+        },
+        {
+          "character": "采",
+          "reading": "cǎi",
+          "bookPage": 118
+        },
+        {
+          "character": "尖",
+          "reading": "jiān",
+          "bookPage": 118
+        },
+        {
+          "character": "角",
+          "reading": "jiǎo",
+          "bookPage": 118
+        },
+        {
+          "character": "早",
+          "reading": "zǎo",
+          "bookPage": 118
+        },
+        {
+          "character": "玩",
+          "reading": "wán",
+          "bookPage": 118
+        },
+        {
+          "character": "眼",
+          "reading": "yǎn",
+          "bookPage": 118
+        },
+        {
+          "character": "泪",
+          "reading": "lèi",
+          "bookPage": 118
+        },
+        {
+          "character": "它",
+          "reading": "tā",
+          "bookPage": 118
+        },
+        {
+          "character": "贝",
+          "reading": "bèi",
+          "bookPage": 118
+        },
+        {
+          "character": "气",
+          "reading": "qì",
+          "bookPage": 118
+        },
+        {
+          "character": "机",
+          "reading": "jī",
+          "bookPage": 118
+        },
+        {
+          "character": "台",
+          "reading": "tái",
+          "bookPage": 118
+        },
+        {
+          "character": "唱",
+          "reading": "chàng",
+          "bookPage": 118
+        },
+        {
+          "character": "伞",
+          "reading": "sǎn",
+          "bookPage": 118
+        },
+        {
+          "character": "朵",
+          "reading": "duǒ",
+          "bookPage": 118
+        },
+        {
+          "character": "美",
+          "reading": "měi",
+          "bookPage": 118
+        },
+        {
+          "character": "这",
+          "reading": "zhè",
+          "bookPage": 118
+        },
+        {
+          "character": "看",
+          "reading": "kàn",
+          "bookPage": 118
+        },
+        {
+          "character": "鱼",
+          "reading": "yú",
+          "bookPage": 118
+        },
+        {
+          "character": "面",
+          "reading": "miàn",
+          "bookPage": 118
+        },
+        {
+          "character": "问",
+          "reading": "wèn",
+          "bookPage": 118
+        },
+        {
+          "character": "加",
+          "reading": "jiā",
+          "bookPage": 118
+        },
+        {
+          "character": "豆",
+          "reading": "dòu",
+          "bookPage": 119
+        },
+        {
+          "character": "斗",
+          "reading": "dǒu",
+          "bookPage": 119
+        },
+        {
+          "character": "笔",
+          "reading": "bǐ",
+          "bookPage": 119
+        },
+        {
+          "character": "知",
+          "reading": "zhī",
+          "bookPage": 119
+        },
+        {
+          "character": "道",
+          "reading": "dào",
+          "bookPage": 119
+        },
+        {
+          "character": "放",
+          "reading": "fàng",
+          "bookPage": 119
+        },
+        {
+          "character": "平",
+          "reading": "píng",
+          "bookPage": 119
+        },
+        {
+          "character": "安",
+          "reading": "ān",
+          "bookPage": 119
+        },
+        {
+          "character": "灯",
+          "reading": "dēng",
+          "bookPage": 119
+        },
+        {
+          "character": "车",
+          "reading": "chē",
+          "bookPage": 119
+        },
+        {
+          "character": "站",
+          "reading": "zhàn",
+          "bookPage": 119
+        },
+        {
+          "character": "课",
+          "reading": "kè",
+          "bookPage": 119
+        },
+        {
+          "character": "坐",
+          "reading": "zuò",
+          "bookPage": 119
+        },
+        {
+          "character": "老",
+          "reading": "lǎo",
+          "bookPage": 119
+        },
+        {
+          "character": "师",
+          "reading": "shī",
+          "bookPage": 119
+        },
+        {
+          "character": "国",
+          "reading": "guó",
+          "bookPage": 119
+        },
+        {
+          "character": "都",
+          "reading": "dōu",
+          "bookPage": 119
+        },
+        {
+          "character": "百",
+          "reading": "bǎi",
+          "bookPage": 119
+        },
+        {
+          "character": "听",
+          "reading": "tīng",
+          "bookPage": 119
+        },
+        {
+          "character": "时",
+          "reading": "shí",
+          "bookPage": 119
+        },
+        {
+          "character": "点",
+          "reading": "diǎn",
+          "bookPage": 119
+        },
+        {
+          "character": "林",
+          "reading": "lín",
+          "bookPage": 119
+        },
+        {
+          "character": "高",
+          "reading": "gāo",
+          "bookPage": 119
+        },
+        {
+          "character": "兴",
+          "reading": "xìng",
+          "bookPage": 119
+        },
+        {
+          "character": "着",
+          "reading": "zhe",
+          "bookPage": 119
+        },
+        {
+          "character": "往",
+          "reading": "wǎng",
+          "bookPage": 119
+        },
+        {
+          "character": "瓜",
+          "reading": "guā",
+          "bookPage": 119
+        },
+        {
+          "character": "兔",
+          "reading": "tù",
+          "bookPage": 119
+        },
+        {
+          "character": "进",
+          "reading": "jìn",
+          "bookPage": 119
+        },
+        {
+          "character": "巾",
+          "reading": "jīn",
+          "bookPage": 119
+        },
+        {
+          "character": "洗",
+          "reading": "xǐ",
+          "bookPage": 119
+        },
+        {
+          "character": "她",
+          "reading": "tā",
+          "bookPage": 119
+        },
+        {
+          "character": "空",
+          "reading": "kōng",
+          "bookPage": 119
+        },
+        {
+          "character": "还",
+          "reading": "hái",
+          "bookPage": 119
+        },
+        {
+          "character": "干",
+          "reading": "gàn",
+          "bookPage": 119
+        },
+        {
+          "character": "身",
+          "reading": "shēn",
+          "bookPage": 119
+        },
+        {
+          "character": "星",
+          "reading": "xīng",
+          "bookPage": 119
+        },
+        {
+          "character": "久",
+          "reading": "jiǔ",
+          "bookPage": 119
+        },
+        {
+          "character": "吓",
+          "reading": "xià",
+          "bookPage": 119
+        },
+        {
+          "character": "为",
+          "reading": "wèi",
+          "bookPage": 119
+        },
+        {
+          "character": "怕",
+          "reading": "pà",
+          "bookPage": 119
+        },
+        {
+          "character": "家",
+          "reading": "jiā",
+          "bookPage": 119
+        },
+        {
+          "character": "象",
+          "reading": "xiàng",
+          "bookPage": 119
+        },
+        {
+          "character": "没",
+          "reading": "méi",
+          "bookPage": 119
+        },
+        {
+          "character": "到",
+          "reading": "dào",
+          "bookPage": 119
+        },
+        {
+          "character": "向",
+          "reading": "xiàng",
+          "bookPage": 119
+        },
+        {
+          "character": "边",
+          "reading": "biān",
+          "bookPage": 119
+        },
+        {
+          "character": "行",
+          "reading": "xíng",
+          "bookPage": 119
+        },
+        {
+          "character": "草",
+          "reading": "cǎo",
+          "bookPage": 119
+        },
+        {
+          "character": "赶",
+          "reading": "gǎn",
+          "bookPage": 119
+        },
+        {
+          "character": "过",
+          "reading": "guò",
+          "bookPage": 119
+        },
+        {
+          "character": "找",
+          "reading": "zhǎo",
+          "bookPage": 119
+        },
+        {
+          "character": "页",
+          "reading": "yè",
+          "bookPage": 119
+        },
+        {
+          "character": "户",
+          "reading": "hù",
+          "bookPage": 119
+        },
+        {
+          "character": "交",
+          "reading": "jiāo",
+          "bookPage": 119
+        },
+        {
+          "character": "父",
+          "reading": "fù",
+          "bookPage": 119
+        }
+      ],
+      "sourceSha256": "4d13d9f0f8d1bf5e463eb7954595629d5cfea10f1c8d9d93fa879ca32064a8a5",
+      "appendixPdfPages": {
+        "recognition": [
+          119,
+          120,
+          121
+        ],
+        "writing": [
+          122,
+          123,
+          124
+        ]
+      },
+      "sourceUrl": "https://cdn.xschu.com/zixunzhan/1772423081347%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E8%AF%AD%E6%96%87%E4%BA%BA%E6%95%99.pdf",
+      "sourceNote": "上册来源：国家智慧教育平台；下册来源：公开教材副本，已核对编修委员会、目录与附录数量。纸质教材版次不同时请以学校教材为准。"
+    }
+  ]
+}

@@ -1,0 +1,1336 @@
+{
+  "date": "2026-10-23",
+  "scope": "一至六年级上下册本地主线课程、独立字卡、复习池、来源记录与关系；另对课标学段要求作人工对照。",
+  "limitations": [
+    "导入记录、同名记录和来源关联数均不是课程覆盖率或学习掌握率。来源含新旧教材，不直接代表学校现用教材。",
+    "本报告没有逐条审定4851条来源事实，没有逐一听审所有录音，也未对学生学习效果作实测。",
+    "关键词命中仅用于定位候选缺口；重复原题可用于再提取，但不能当作新情境迁移证据。",
+    "本次只新增检查脚本和报告，课程内容与线上版本未因本次检查而修改。"
+  ],
+  "source": {
+    "source": "https://github.com/mmlong818/k12-knowledge-points",
+    "sourceFile": "split/小学/语文.json",
+    "sourceSha256": "524dae27c19ed34dd5602ce23b5c3853a0bbc2ec28d9bceefc7f68339e17e291",
+    "importedAt": "2026-10-23",
+    "license": "PolyForm Noncommercial 1.0.0",
+    "requiredNotice": "Copyright © 2026 猫叔 (https://github.com/mmlong818/k12-knowledge-points)",
+    "pointCount": 4851,
+    "relationCount": 2889,
+    "gradeCounts": {
+      "1": 940,
+      "2": 855,
+      "3": 908,
+      "4": 732,
+      "5": 736,
+      "6": 700
+    },
+    "semesterCounts": {
+      "上册": 2649,
+      "下册": 2210
+    },
+    "categoryCounts": {
+      "拼音乐园": 172,
+      "阅读森林": 2847,
+      "表达工坊": 499,
+      "汉字小镇": 723,
+      "词句花园": 325,
+      "诗意星空": 285
+    },
+    "notice": "来源包含新旧教材和相近条目，原始抽取仍待逐条核对。课程按年级能力目标自编，不以导入条目数代替课程覆盖或学习掌握。",
+    "exactDuplicateNames": [
+      {
+        "value": "一年级下册写字表200字的认读与书写",
+        "occurrences": 2
+      },
+      {
+        "value": "人类无法移居其他星球的科学依据",
+        "occurrences": 2
+      },
+      {
+        "value": "把握文章主要内容的方法",
+        "occurrences": 2
+      },
+      {
+        "value": "本课生字新词的认读与书写",
+        "occurrences": 2
+      },
+      {
+        "value": "点面结合的场面描写方法",
+        "occurrences": 4
+      },
+      {
+        "value": "生字新词的认读与书写",
+        "occurrences": 4
+      },
+      {
+        "value": "简要复述课文的方法",
+        "occurrences": 3
+      },
+      {
+        "value": "选取典型事例表现人物特点",
+        "occurrences": 2
+      }
+    ],
+    "warningRecords": [
+      {
+        "id": "b515e26a-0581-4513-bcb1-1831370b527b",
+        "name": "ABB式叠词的积累与迁移运用",
+        "warnings": [
+          "标题叠词类型与例词不一致，需要人工核对"
+        ]
+      },
+      {
+        "id": "c1d7b7e0-3f6f-4bc1-b965-84842c119808",
+        "name": "ABB式叠词积累与迁移运用",
+        "warnings": [
+          "标题叠词类型与例词不一致，需要人工核对"
+        ]
+      }
+    ]
+  },
+  "totals": {
+    "mainLessons": 347,
+    "mainQuestions": 856,
+    "sourceRecords": 4851,
+    "sourceRelations": 2889,
+    "characterCards": 773,
+    "characterCardQuestions": 783,
+    "characterWritingActivities": 300,
+    "singleItemOrderMain": 5,
+    "singleItemOrderReview": 5
+  },
+  "grades": [
+    {
+      "grade": 1,
+      "sourceRecords": 940,
+      "linkedSourceRecords": 108,
+      "terms": [
+        {
+          "semester": "上册",
+          "lessons": 64,
+          "mainQuestions": 232,
+          "activities": 59
+        },
+        {
+          "semester": "下册",
+          "lessons": 43,
+          "mainQuestions": 144,
+          "activities": 62
+        }
+      ],
+      "lessons": 107,
+      "mainQuestions": 376,
+      "questionTypes": {
+        "choice": 361,
+        "order": 15
+      },
+      "reviewQuestions": 472,
+      "reviewExactMainCopies": 376,
+      "choiceQuestions": 361,
+      "choiceAnswerStrictLongest": 71,
+      "readingMaterials": 0,
+      "materialLengthRange": null,
+      "materialLengthUnit": "Unicode字符数，含标点与换行；不是规范的汉字字数或难度分数。",
+      "mostReusedSources": [
+        {
+          "id": "fc9633b4-1d3d-4743-ac5c-b5bdb52a1850",
+          "name": "单韵母 ɑ o e 的认读",
+          "lessonOccurrences": 18
+        },
+        {
+          "id": "5cb9f508-a3f5-4939-a1c0-758e98172b9c",
+          "name": "汉语拼音字母表认读与大小写对应",
+          "lessonOccurrences": 4
+        },
+        {
+          "id": "65d163c8-8153-46f8-8051-1c5116440a5e",
+          "name": "指令式口语听说交际",
+          "lessonOccurrences": 3
+        },
+        {
+          "id": "22d22255-d400-4334-a9da-f1983c1b086f",
+          "name": "阅读成果的自我陈述与角色认同",
+          "lessonOccurrences": 2
+        },
+        {
+          "id": "1626c0ab-8095-48b5-9b5c-ea9757165c26",
+          "name": "汉字笔顺规则：先横后竖、先撇后捺",
+          "lessonOccurrences": 2
+        }
+      ]
+    },
+    {
+      "grade": 2,
+      "sourceRecords": 855,
+      "linkedSourceRecords": 53,
+      "terms": [
+        {
+          "semester": "上册",
+          "lessons": 24,
+          "mainQuestions": 48,
+          "activities": 24
+        },
+        {
+          "semester": "下册",
+          "lessons": 24,
+          "mainQuestions": 48,
+          "activities": 24
+        }
+      ],
+      "lessons": 48,
+      "mainQuestions": 96,
+      "questionTypes": {
+        "choice": 79,
+        "order": 17
+      },
+      "reviewQuestions": 96,
+      "reviewExactMainCopies": 96,
+      "choiceQuestions": 79,
+      "choiceAnswerStrictLongest": 37,
+      "readingMaterials": 16,
+      "materialLengthRange": [
+        65,
+        87
+      ],
+      "materialLengthUnit": "Unicode字符数，含标点与换行；不是规范的汉字字数或难度分数。",
+      "mostReusedSources": [
+        {
+          "id": "83b6515d-3474-42d1-9660-4f882830abc0",
+          "name": "ABB式叠词在春天语境中的搭配与表达",
+          "lessonOccurrences": 8
+        },
+        {
+          "id": "01a664f7-6912-495c-9171-31d5d3d63d36",
+          "name": "‘愿’字为核心的愿望类词语理解与运用",
+          "lessonOccurrences": 5
+        },
+        {
+          "id": "1ded4f8a-300c-4ecf-9b49-3d9692899fdb",
+          "name": "写话主题支架：喜爱的玩具三要素描述",
+          "lessonOccurrences": 5
+        },
+        {
+          "id": "f7fe9c53-cb09-4bae-b0c0-ff92b49fd2f2",
+          "name": "写话基本规范：段首空两格与标点占格",
+          "lessonOccurrences": 5
+        },
+        {
+          "id": "f84c34eb-2ae2-4ff3-9d45-293b1b3057ec",
+          "name": "‘不肯休息’‘连声说不行’中语气词与重复结构的情感表达",
+          "lessonOccurrences": 5
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "sourceRecords": 908,
+      "linkedSourceRecords": 47,
+      "terms": [
+        {
+          "semester": "上册",
+          "lessons": 24,
+          "mainQuestions": 48,
+          "activities": 24
+        },
+        {
+          "semester": "下册",
+          "lessons": 24,
+          "mainQuestions": 48,
+          "activities": 24
+        }
+      ],
+      "lessons": 48,
+      "mainQuestions": 96,
+      "questionTypes": {
+        "choice": 80,
+        "order": 16
+      },
+      "reviewQuestions": 96,
+      "reviewExactMainCopies": 96,
+      "choiceQuestions": 80,
+      "choiceAnswerStrictLongest": 46,
+      "readingMaterials": 16,
+      "materialLengthRange": [
+        71,
+        94
+      ],
+      "materialLengthUnit": "Unicode字符数，含标点与换行；不是规范的汉字字数或难度分数。",
+      "mostReusedSources": [
+        {
+          "id": "7525259f-1a50-4895-923d-64df7486f14c",
+          "name": "‘争分夺秒’等四字词语的理解与运用",
+          "lessonOccurrences": 7
+        },
+        {
+          "id": "a576bf0f-d01d-4c3f-8a23-94f7a7f12c76",
+          "name": "‘五彩缤纷’等描写色彩的四字词语的理解与迁移",
+          "lessonOccurrences": 7
+        },
+        {
+          "id": "f832e60c-e8fe-415f-b265-ad64c2b62b0a",
+          "name": "AABB式与ABAC式词语结构辨析与仿写",
+          "lessonOccurrences": 7
+        },
+        {
+          "id": "2cd39d69-5087-448a-9f8c-65eb8762605e",
+          "name": "AABC式与ABAC式词语的结构识别与仿写",
+          "lessonOccurrences": 7
+        },
+        {
+          "id": "5c1241f6-640d-4ba5-8423-09373a29d9fb",
+          "name": "习作：我有一个想法中‘想法—建议—办法’的逻辑结构表达",
+          "lessonOccurrences": 5
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "sourceRecords": 732,
+      "linkedSourceRecords": 59,
+      "terms": [
+        {
+          "semester": "上册",
+          "lessons": 24,
+          "mainQuestions": 48,
+          "activities": 24
+        },
+        {
+          "semester": "下册",
+          "lessons": 24,
+          "mainQuestions": 48,
+          "activities": 24
+        }
+      ],
+      "lessons": 48,
+      "mainQuestions": 96,
+      "questionTypes": {
+        "choice": 80,
+        "order": 16
+      },
+      "reviewQuestions": 96,
+      "reviewExactMainCopies": 96,
+      "choiceQuestions": 80,
+      "choiceAnswerStrictLongest": 62,
+      "readingMaterials": 16,
+      "materialLengthRange": [
+        78,
+        100
+      ],
+      "materialLengthUnit": "Unicode字符数，含标点与换行；不是规范的汉字字数或难度分数。",
+      "mostReusedSources": [
+        {
+          "id": "59c48628-b547-4d5e-8529-8176947b18a5",
+          "name": "‘半明半昧’‘摇摇欲坠’等叠韵/动态化词语的语境理解与情感体味",
+          "lessonOccurrences": 6
+        },
+        {
+          "id": "38d583fd-3ffa-49f7-8428-4973fc17b336",
+          "name": "叙事性习作中融合心理活动描写增强表达效果",
+          "lessonOccurrences": 5
+        },
+        {
+          "id": "67b7e39b-6e24-42e5-bba3-c4e40ad81049",
+          "name": "《走月亮》中亲情主题与反复结构的情感表达",
+          "lessonOccurrences": 4
+        },
+        {
+          "id": "f48cbe05-34e3-4fc8-a2ff-065e8e5e24ca",
+          "name": "中国世界文化遗产介绍类习作",
+          "lessonOccurrences": 4
+        },
+        {
+          "id": "26bfd597-3583-4b48-85f6-c5b9a028b4f8",
+          "name": "关键词语的语境义与情感张力分析",
+          "lessonOccurrences": 4
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "sourceRecords": 736,
+      "linkedSourceRecords": 51,
+      "terms": [
+        {
+          "semester": "上册",
+          "lessons": 24,
+          "mainQuestions": 48,
+          "activities": 24
+        },
+        {
+          "semester": "下册",
+          "lessons": 24,
+          "mainQuestions": 48,
+          "activities": 24
+        }
+      ],
+      "lessons": 48,
+      "mainQuestions": 96,
+      "questionTypes": {
+        "choice": 80,
+        "order": 16
+      },
+      "reviewQuestions": 96,
+      "reviewExactMainCopies": 96,
+      "choiceQuestions": 80,
+      "choiceAnswerStrictLongest": 65,
+      "readingMaterials": 16,
+      "materialLengthRange": [
+        81,
+        109
+      ],
+      "materialLengthUnit": "Unicode字符数，含标点与换行；不是规范的汉字字数或难度分数。",
+      "mostReusedSources": [
+        {
+          "id": "935648be-a725-4a64-bb0b-b5946324d340",
+          "name": "《山居秋暝》关键词语的古义理解与注释迁移",
+          "lessonOccurrences": 6
+        },
+        {
+          "id": "607cb125-e7fc-42df-a93a-dcd160bdaeaf",
+          "name": "《圆明园的毁灭》与《七子之歌》情感共鸣比较阅读",
+          "lessonOccurrences": 6
+        },
+        {
+          "id": "406ab36f-2468-47d8-8841-9122b1cd2208",
+          "name": "人物描写方法辨识与情感体察（动作/语言/神态）",
+          "lessonOccurrences": 5
+        },
+        {
+          "id": "80d2f243-beb4-445a-820c-c30f22b3e438",
+          "name": "习作互评与修改实践",
+          "lessonOccurrences": 4
+        },
+        {
+          "id": "bc179629-2853-4474-a5f5-e48cba5079fb",
+          "name": "习作互评互改",
+          "lessonOccurrences": 4
+        }
+      ]
+    },
+    {
+      "grade": 6,
+      "sourceRecords": 700,
+      "linkedSourceRecords": 54,
+      "terms": [
+        {
+          "semester": "上册",
+          "lessons": 24,
+          "mainQuestions": 48,
+          "activities": 24
+        },
+        {
+          "semester": "下册",
+          "lessons": 24,
+          "mainQuestions": 48,
+          "activities": 24
+        }
+      ],
+      "lessons": 48,
+      "mainQuestions": 96,
+      "questionTypes": {
+        "choice": 80,
+        "order": 16
+      },
+      "reviewQuestions": 96,
+      "reviewExactMainCopies": 96,
+      "choiceQuestions": 80,
+      "choiceAnswerStrictLongest": 67,
+      "readingMaterials": 16,
+      "materialLengthRange": [
+        80,
+        122
+      ],
+      "materialLengthUnit": "Unicode字符数，含标点与换行；不是规范的汉字字数或难度分数。",
+      "mostReusedSources": [
+        {
+          "id": "193d77c6-b042-4dbb-8bce-70e143949f83",
+          "name": "《十五夜望月》关键词语释义与文化语境理解",
+          "lessonOccurrences": 7
+        },
+        {
+          "id": "f6e1d640-5bd3-4a35-bee9-dbcba5d2881c",
+          "name": "《书湖阴先生壁》中关键词语的释义与语境理解",
+          "lessonOccurrences": 6
+        },
+        {
+          "id": "1c6a2674-1fe0-47b2-944b-0bd7f92555ba",
+          "name": "《好的故事》中关键词语的时代语义辨析",
+          "lessonOccurrences": 5
+        },
+        {
+          "id": "14dbac72-2f64-419f-a295-cfa1b3a87515",
+          "name": "情感类词语的辨析与选用",
+          "lessonOccurrences": 5
+        },
+        {
+          "id": "d9b497ef-ed1f-48cc-92f9-b0f833e04cf5",
+          "name": "习作实践：选字立意围绕中心意思写作",
+          "lessonOccurrences": 4
+        }
+      ]
+    }
+  ],
+  "characterTerms": [
+    {
+      "semester": "上册",
+      "edition": "统编语文修订版（依据2022年课程标准）",
+      "recognized": 280,
+      "writing": 100,
+      "sourceUrl": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1c73b348-e8b6-47d6-84b0-6dbacbe28268.pkg/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%E8%AF%AD%E6%96%87%20%E4%B8%80%E5%B9%B4%E7%BA%A7%20%E4%B8%8A%E5%86%8C_1725097498841.pdf",
+      "sourceNote": "上册来源：国家智慧教育平台；下册来源：公开教材副本，已核对编修委员会、目录与附录数量。纸质教材版次不同时请以学校教材为准。"
+    },
+    {
+      "semester": "下册",
+      "edition": "统编语文修订版（依据2022年课程标准）",
+      "recognized": 410,
+      "writing": 200,
+      "sourceUrl": "https://cdn.xschu.com/zixunzhan/1772423081347%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E8%AF%AD%E6%96%87%E4%BA%BA%E6%95%99.pdf",
+      "sourceNote": "上册来源：国家智慧教育平台；下册来源：公开教材副本，已核对编修委员会、目录与附录数量。纸质教材版次不同时请以学校教材为准。"
+    }
+  ],
+  "structuralIssues": [
+    {
+      "type": "single-item-order",
+      "lessonId": "g2-upper-pond-expression",
+      "questionId": "g2-upper-pond-expression-q2",
+      "prompt": "把「我的变化小记录」的提纲按内容先后排好。",
+      "answer": [
+        "先写开始的样子，再写后来的变化"
+      ]
+    },
+    {
+      "type": "single-item-order",
+      "lessonId": "g2-upper-pond-expression",
+      "questionId": "recall-g2-upper-pond-expression-2",
+      "prompt": "把「我的变化小记录」的提纲按内容先后排好。",
+      "answer": [
+        "先写开始的样子，再写后来的变化"
+      ]
+    },
+    {
+      "type": "single-item-order",
+      "lessonId": "g2-upper-trees-expression",
+      "questionId": "g2-upper-trees-expression-q2",
+      "prompt": "把「给落叶做名片」的提纲按内容先后排好。",
+      "answer": [
+        "先介绍颜色和形状，再解释名字"
+      ]
+    },
+    {
+      "type": "single-item-order",
+      "lessonId": "g2-upper-trees-expression",
+      "questionId": "recall-g2-upper-trees-expression-2",
+      "prompt": "把「给落叶做名片」的提纲按内容先后排好。",
+      "answer": [
+        "先介绍颜色和形状，再解释名字"
+      ]
+    },
+    {
+      "type": "single-item-order",
+      "lessonId": "g2-upper-poems-expression",
+      "questionId": "g2-upper-poems-expression-q2",
+      "prompt": "把「画中有诗」的提纲按内容先后排好。",
+      "answer": [
+        "写出诗中的景物，再说自己的想象"
+      ]
+    },
+    {
+      "type": "single-item-order",
+      "lessonId": "g2-upper-poems-expression",
+      "questionId": "recall-g2-upper-poems-expression-2",
+      "prompt": "把「画中有诗」的提纲按内容先后排好。",
+      "answer": [
+        "写出诗中的景物，再说自己的想象"
+      ]
+    },
+    {
+      "type": "single-item-order",
+      "lessonId": "g2-lower-spring-expression",
+      "questionId": "g2-lower-spring-expression-q2",
+      "prompt": "把「我的春日观察卡」的提纲按内容先后排好。",
+      "answer": [
+        "先写看到的，再写听到的"
+      ]
+    },
+    {
+      "type": "single-item-order",
+      "lessonId": "g2-lower-spring-expression",
+      "questionId": "recall-g2-lower-spring-expression-2",
+      "prompt": "把「我的春日观察卡」的提纲按内容先后排好。",
+      "answer": [
+        "先写看到的，再写听到的"
+      ]
+    },
+    {
+      "type": "single-item-order",
+      "lessonId": "g3-upper-autumn-expression",
+      "questionId": "g3-upper-autumn-expression-q2",
+      "prompt": "把「一处秋景」的提纲按内容先后排好。",
+      "answer": [
+        "先点明地方，再写有特点的景物"
+      ]
+    },
+    {
+      "type": "single-item-order",
+      "lessonId": "g3-upper-autumn-expression",
+      "questionId": "recall-g3-upper-autumn-expression-2",
+      "prompt": "把「一处秋景」的提纲按内容先后排好。",
+      "answer": [
+        "先点明地方，再写有特点的景物"
+      ]
+    }
+  ],
+  "manualFindings": [
+    {
+      "id": "mapping-01",
+      "priority": "P1",
+      "lessonId": "g2-upper-bridge-words",
+      "issue": "纸桥材料练习“顺利、架”，却关联“五光十色”以及其他动词的逐词识字目标。",
+      "lessonTitle": "词语线索 · 纸桥工程队",
+      "sourceNames": [
+        {
+          "id": "80085902-b223-4868-a057-0c8a0abc9f08",
+          "name": "‘五光十色’的语境理解与运用"
+        },
+        {
+          "id": "876c2f9a-9fa8-406d-aba5-ed67bd75d961",
+          "name": "‘堆、累、添、烧、旺、闭、冲、淋、晒’等动词的语境识字与运用"
+        }
+      ]
+    },
+    {
+      "id": "mapping-02",
+      "priority": "P1",
+      "lessonId": "g5-upper-object-words",
+      "issue": "茶杯生活短文关联“鸟的天堂”课题双重含义及《山居秋暝》古义目标，材料和题目均未提供对应课文语境。",
+      "lessonTitle": "词语线索 · 旧茶杯的温度",
+      "sourceNames": [
+        {
+          "id": "c75aaf4d-9208-4b66-aa22-dd71a633f476",
+          "name": "“鸟的天堂”课题双重含义理解"
+        },
+        {
+          "id": "935648be-a725-4a64-bb0b-b5946324d340",
+          "name": "《山居秋暝》关键词语的古义理解与注释迁移"
+        }
+      ]
+    },
+    {
+      "id": "mapping-03",
+      "priority": "P1",
+      "lessonId": "g3-lower-information-words",
+      "issue": "说明牌中的“自带、回收”练习关联叠词构式目标，其中一个来源自身含错误。",
+      "lessonTitle": "词语线索 · 海边两张说明牌",
+      "sourceNames": [
+        {
+          "id": "f832e60c-e8fe-415f-b265-ad64c2b62b0a",
+          "name": "AABB式与ABAC式词语结构辨析与仿写"
+        },
+        {
+          "id": "2cd39d69-5087-448a-9f8c-65eb8762605e",
+          "name": "AABC式与ABAC式词语的结构识别与仿写"
+        }
+      ]
+    },
+    {
+      "id": "source-01",
+      "priority": "P1",
+      "sourceId": "f832e60c-e8fe-415f-b265-ad64c2b62b0a",
+      "issue": "来源目标把“源源不断、津津有味”归为AABB，实际字序为AABC；现有warnings未标出。",
+      "name": "AABB式与ABAC式词语结构辨析与仿写",
+      "objectives": [
+        "能识别‘源源不断’‘津津有味’属于AABB式结构",
+        "能识别‘无忧无虑’‘无边无际’属于ABAC式结构",
+        "能按规则正确仿写各1个AABB式和ABAC式词语",
+        "能说明两类词语在表达效果上的生动性"
+      ],
+      "linkedLessonIds": [
+        "g3-lower-swallow-words",
+        "g3-lower-fable-words",
+        "g3-lower-paper-words",
+        "g3-lower-flowers-words",
+        "g3-lower-memory-words",
+        "g3-lower-information-words",
+        "g3-lower-folktale-words"
+      ],
+      "currentWarnings": []
+    }
+  ],
+  "topicScreening": [
+    {
+      "id": "dictionary-radical",
+      "label": "部首检字",
+      "pattern": "部首查字|部首检字|部首查找",
+      "method": "关键词筛查，仅用于找线索；未命中不等于未教学，命中也不等于已覆盖，须结合人工审核。",
+      "grades": [
+        {
+          "grade": 1,
+          "sourceRecords": 1,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 2,
+          "sourceRecords": 5,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 3,
+          "sourceRecords": 1,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 4,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 5,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 6,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        }
+      ]
+    },
+    {
+      "id": "dictionary-order",
+      "label": "音序检字",
+      "pattern": "音序查字|音序检字",
+      "method": "关键词筛查，仅用于找线索；未命中不等于未教学，命中也不等于已覆盖，须结合人工审核。",
+      "grades": [
+        {
+          "grade": 1,
+          "sourceRecords": 9,
+          "questionLessonIds": [
+            "lower-treasure"
+          ],
+          "anyFieldLessonIds": [
+            "dictionary",
+            "lower-treasure"
+          ]
+        },
+        {
+          "grade": 2,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 3,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 4,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 5,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 6,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        }
+      ]
+    },
+    {
+      "id": "context-pronunciation",
+      "label": "多音字辨读",
+      "pattern": "多音字|多音",
+      "method": "关键词筛查，仅用于找线索；未命中不等于未教学，命中也不等于已覆盖，须结合人工审核。",
+      "grades": [
+        {
+          "grade": 1,
+          "sourceRecords": 8,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 2,
+          "sourceRecords": 41,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 3,
+          "sourceRecords": 33,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 4,
+          "sourceRecords": 20,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 5,
+          "sourceRecords": 9,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 6,
+          "sourceRecords": 2,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        }
+      ]
+    },
+    {
+      "id": "confusable-characters",
+      "label": "同音、形近字",
+      "pattern": "同音|形近|易混字",
+      "method": "关键词筛查，仅用于找线索；未命中不等于未教学，命中也不等于已覆盖，须结合人工审核。",
+      "grades": [
+        {
+          "grade": 1,
+          "sourceRecords": 45,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 2,
+          "sourceRecords": 22,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 3,
+          "sourceRecords": 11,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 4,
+          "sourceRecords": 9,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 5,
+          "sourceRecords": 7,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 6,
+          "sourceRecords": 3,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        }
+      ]
+    },
+    {
+      "id": "punctuation",
+      "label": "标点用法",
+      "pattern": "标点|冒号|引号|分号|顿号|省略号|破折号",
+      "method": "关键词筛查，仅用于找线索；未命中不等于未教学，命中也不等于已覆盖，须结合人工审核。",
+      "grades": [
+        {
+          "grade": 1,
+          "sourceRecords": 9,
+          "questionLessonIds": [
+            "snow-footprints",
+            "punctuation"
+          ],
+          "anyFieldLessonIds": [
+            "snow-footprints",
+            "gratitude",
+            "tree-neighbor",
+            "night-walk",
+            "animal-song",
+            "lotus",
+            "punctuation",
+            "comma",
+            "meeting-notice",
+            "sentence-garden",
+            "lower-treasure"
+          ]
+        },
+        {
+          "grade": 2,
+          "sourceRecords": 19,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": [
+            "g2-upper-pond-expression"
+          ]
+        },
+        {
+          "grade": 3,
+          "sourceRecords": 30,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 4,
+          "sourceRecords": 9,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 5,
+          "sourceRecords": 6,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 6,
+          "sourceRecords": 11,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        }
+      ]
+    },
+    {
+      "id": "editing",
+      "label": "词句修改",
+      "pattern": "病句|修改.*词句|修改.*句子|修改.*语句",
+      "method": "关键词筛查，仅用于找线索；未命中不等于未教学，命中也不等于已覆盖，须结合人工审核。",
+      "grades": [
+        {
+          "grade": 1,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 2,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 3,
+          "sourceRecords": 8,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 4,
+          "sourceRecords": 2,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 5,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 6,
+          "sourceRecords": 1,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        }
+      ]
+    },
+    {
+      "id": "silent-reading",
+      "label": "默读与略读",
+      "pattern": "默读|略读",
+      "method": "关键词筛查，仅用于找线索；未命中不等于未教学，命中也不等于已覆盖，须结合人工审核。",
+      "grades": [
+        {
+          "grade": 1,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 2,
+          "sourceRecords": 4,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 3,
+          "sourceRecords": 13,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 4,
+          "sourceRecords": 11,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 5,
+          "sourceRecords": 31,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 6,
+          "sourceRecords": 7,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        }
+      ]
+    },
+    {
+      "id": "retelling",
+      "label": "转述信息",
+      "pattern": "转述",
+      "method": "关键词筛查，仅用于找线索；未命中不等于未教学，命中也不等于已覆盖，须结合人工审核。",
+      "grades": [
+        {
+          "grade": 1,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 2,
+          "sourceRecords": 4,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 3,
+          "sourceRecords": 10,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 4,
+          "sourceRecords": 9,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 5,
+          "sourceRecords": 17,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": [
+            "g5-upper-books-expression"
+          ]
+        },
+        {
+          "grade": 6,
+          "sourceRecords": 4,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": [
+            "g6-lower-wholebook-expression"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recitation",
+      "label": "背诵与默写",
+      "pattern": "背诵|试背|默写",
+      "method": "关键词筛查，仅用于找线索；未命中不等于未教学，命中也不等于已覆盖，须结合人工审核。",
+      "grades": [
+        {
+          "grade": 1,
+          "sourceRecords": 64,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": [
+            "upper-poems",
+            "jiangnan-poem",
+            "snow-footprints",
+            "moon-poem",
+            "early-learning",
+            "pond-poems"
+          ]
+        },
+        {
+          "grade": 2,
+          "sourceRecords": 48,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": [
+            "g2-upper-poems-expression",
+            "g2-lower-summer-poems-expression"
+          ]
+        },
+        {
+          "grade": 3,
+          "sourceRecords": 53,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 4,
+          "sourceRecords": 37,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 5,
+          "sourceRecords": 28,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 6,
+          "sourceRecords": 36,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        }
+      ]
+    },
+    {
+      "id": "summary-writing",
+      "label": "缩写",
+      "pattern": "缩写",
+      "method": "关键词筛查，仅用于找线索；未命中不等于未教学，命中也不等于已覆盖，须结合人工审核。",
+      "grades": [
+        {
+          "grade": 1,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 2,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 3,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 4,
+          "sourceRecords": 1,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 5,
+          "sourceRecords": 6,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 6,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        }
+      ]
+    },
+    {
+      "id": "reading-response",
+      "label": "读后感",
+      "pattern": "读后感",
+      "method": "关键词筛查，仅用于找线索；未命中不等于未教学，命中也不等于已覆盖，须结合人工审核。",
+      "grades": [
+        {
+          "grade": 1,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 2,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 3,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 4,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 5,
+          "sourceRecords": 4,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 6,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        }
+      ]
+    },
+    {
+      "id": "speech",
+      "label": "发言与演讲",
+      "pattern": "演讲|发言稿",
+      "method": "关键词筛查，仅用于找线索；未命中不等于未教学，命中也不等于已覆盖，须结合人工审核。",
+      "grades": [
+        {
+          "grade": 1,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 2,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 3,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 4,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 5,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 6,
+          "sourceRecords": 11,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        }
+      ]
+    },
+    {
+      "id": "wholebook",
+      "label": "整本书阅读",
+      "pattern": "整本书|整本.*阅读|一本书|读完整",
+      "method": "关键词筛查，仅用于找线索；未命中不等于未教学，命中也不等于已覆盖，须结合人工审核。",
+      "grades": [
+        {
+          "grade": 1,
+          "sourceRecords": 1,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 2,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 3,
+          "sourceRecords": 0,
+          "questionLessonIds": [
+            "g3-upper-reading-expression"
+          ],
+          "anyFieldLessonIds": [
+            "g3-upper-promise-words",
+            "g3-upper-promise-reading",
+            "g3-upper-promise-expression",
+            "g3-upper-reading-expression"
+          ]
+        },
+        {
+          "grade": 4,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 5,
+          "sourceRecords": 6,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": [
+            "g5-upper-books-words",
+            "g5-upper-books-reading",
+            "g5-upper-books-expression"
+          ]
+        },
+        {
+          "grade": 6,
+          "sourceRecords": 7,
+          "questionLessonIds": [
+            "g6-lower-adventure-reading",
+            "g6-lower-wholebook-expression"
+          ],
+          "anyFieldLessonIds": [
+            "g6-lower-adventure-reading",
+            "g6-lower-wholebook-reading",
+            "g6-lower-wholebook-expression"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exposition",
+      "label": "说明方法",
+      "pattern": "说明方法|列数字|作比较|举例子|打比方",
+      "method": "关键词筛查，仅用于找线索；未命中不等于未教学，命中也不等于已覆盖，须结合人工审核。",
+      "grades": [
+        {
+          "grade": 1,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": [
+            "lotus"
+          ]
+        },
+        {
+          "grade": 2,
+          "sourceRecords": 1,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 3,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 4,
+          "sourceRecords": 4,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        },
+        {
+          "grade": 5,
+          "sourceRecords": 17,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": [
+            "g5-upper-science-reading",
+            "g5-upper-science-expression"
+          ]
+        },
+        {
+          "grade": 6,
+          "sourceRecords": 0,
+          "questionLessonIds": [],
+          "anyFieldLessonIds": []
+        }
+      ]
+    }
+  ]
+}

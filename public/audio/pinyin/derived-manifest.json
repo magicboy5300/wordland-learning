@@ -1,0 +1,62 @@
+{
+  "o1": {
+    "source": "bo1.mp3",
+    "startSeconds": 0.14,
+    "file": "/audio/pinyin/finals/o1.mp3"
+  },
+  "o2": {
+    "source": "bo2.mp3",
+    "startSeconds": 0.14,
+    "file": "/audio/pinyin/finals/o2.mp3"
+  },
+  "o3": {
+    "source": "bo3.mp3",
+    "startSeconds": 0.14,
+    "file": "/audio/pinyin/finals/o3.mp3"
+  },
+  "o4": {
+    "source": "bo4.mp3",
+    "startSeconds": 0.14,
+    "file": "/audio/pinyin/finals/o4.mp3"
+  },
+  "eng1": {
+    "source": "deng1.mp3",
+    "startSeconds": 0.11,
+    "file": "/audio/pinyin/finals/eng1.mp3"
+  },
+  "eng2": {
+    "source": "deng2.mp3",
+    "startSeconds": 0.11,
+    "file": "/audio/pinyin/finals/eng2.mp3"
+  },
+  "eng3": {
+    "source": "deng3.mp3",
+    "startSeconds": 0.11,
+    "file": "/audio/pinyin/finals/eng3.mp3"
+  },
+  "eng4": {
+    "source": "deng4.mp3",
+    "startSeconds": 0.11,
+    "file": "/audio/pinyin/finals/eng4.mp3"
+  },
+  "ong1": {
+    "source": "dong1.mp3",
+    "startSeconds": 0.11,
+    "file": "/audio/pinyin/finals/ong1.mp3"
+  },
+  "ong2": {
+    "source": "dong2.mp3",
+    "startSeconds": 0.11,
+    "file": "/audio/pinyin/finals/ong2.mp3"
+  },
+  "ong3": {
+    "source": "dong3.mp3",
+    "startSeconds": 0.11,
+    "file": "/audio/pinyin/finals/ong3.mp3"
+  },
+  "ong4": {
+    "source": "dong4.mp3",
+    "startSeconds": 0.11,
+    "file": "/audio/pinyin/finals/ong4.mp3"
+  }
+}
