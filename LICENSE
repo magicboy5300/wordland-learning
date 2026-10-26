@@ -19,9 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-Scope: This license covers the project-authored application code and
-documentation. Third-party datasets, audio, libraries, textbook-derived
-material and other third-party works retain their respective rights and
-licenses. See THIRD_PARTY_NOTICES.md. In particular, the bundled knowledge
-dataset is subject to PolyForm Noncommercial 1.0.0, not this MIT grant.

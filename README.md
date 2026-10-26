@@ -16,7 +16,7 @@
 
 ![语文小侦探冒险地图：选择年级、学期和故事路线](docs/ui/compact-header-desktop.png)
 
-> **许可说明：**本项目自行编写的应用代码和文档采用 [MIT](LICENSE)；随附知识点数据按上游 [PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0) 提供，使用这些数据进行商业活动需另行取得相应授权。详见 [第三方来源与许可](THIRD_PARTY_NOTICES.md)。
+> **许可说明：** 本项目自行编写的应用代码和文档采用 [MIT](LICENSE)；随附知识点数据按上游 [PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0) 提供，使用这些数据进行商业活动需另行取得相应授权。详见 [第三方来源与许可](THIRD_PARTY_NOTICES.md)。
 
 ## 这是什么？
 
@@ -100,7 +100,14 @@
 
 ### 获取并运行
 
-在本仓库点击 **Code → Download ZIP** 并解压，或通过 **Open with GitHub Desktop** 克隆。进入含 `package.json` 的项目目录执行：
+在本仓库点击 **Code → Download ZIP** 并解压，或通过 **Open with GitHub Desktop** 克隆。也可以使用 Git：
+
+```bash
+git clone https://github.com/magicboy5300/wordland-learning.git
+cd wordland-learning
+```
+
+进入含 `package.json` 的项目目录执行：
 
 ```bash
 npm ci
@@ -155,10 +162,10 @@ src/                 React + TypeScript 界面、交互、注音与音频播放
 server/              Express API、用户认证、判题、复习和 SQLite 持久化
 server/curriculum/   二至六年级自编能力课程
 public/              小书狐图标、拼音录音和素材署名
-数据目录 data/       知识点、教材来源和一年级字表
+data/                知识点、教材来源和一年级字表
 scripts/             数据导入、课程导出、音频处理与课程审查脚本
 tests/               已有 API 测试
-文档目录 docs/       使用说明、课程清单、审查报告和界面截图
+docs/                使用说明、课程清单、审查报告和界面截图
 ```
 
 技术栈：**React 19 · TypeScript · Vite · Express · sql.js / SQLite · pinyin-pro · lucide-react**。
